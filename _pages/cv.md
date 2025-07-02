@@ -65,12 +65,14 @@ Publications
   
 Talks
 ======
+* Working on it...
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
 ======
+* I am going to serve as a TA in the following years.
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

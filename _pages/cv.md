@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Interdisciplinary Ph.D. Program in Urban Design and Planning , University of WahsingtonVersion, 2029 (expected)
+* Master in Urban Planning, Zhejiang University, 2025
+* B.Eng. in Urban and Rural Planning, Zhejiang University, 2023
 
 Work experience
 ======

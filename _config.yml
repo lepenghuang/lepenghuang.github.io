@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "Academic Profile"
-title                    : "Lepeng Huang / Academic Profile"
+title                    : "Academic Profile"
 title_separator          : "-"
 name                     : &name "Lepeng Huang"
 description              : &description "PhD student"
@@ -26,7 +26,7 @@ author:
   name             : "Lepeng Huang"
   pronouns         : # example: "she/her"  
   bio              : "Incoming PhD student in urban planning at University of Washington"
-  location         : "Seattle, WA, USA"
+  location         : "Seattle, WA, USA, and Hangzhou, China"
   employer         : "University of Washington"
   uri              : # URL
   email            : "huanglp@uw.edu" 

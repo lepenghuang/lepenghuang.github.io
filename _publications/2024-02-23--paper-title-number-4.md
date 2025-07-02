@@ -2,7 +2,7 @@
 title: "Application of Gale-Shapley algorithm in optimal matching for healthcare facilities to elderly population: the case of Hangzhou, China"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-23-paper-Application-of-Gale-Shapley-algorithm-in-optimal-matching-for-healthcare-facilities-to-elderly-population-the-case-of-Hangzhou-China-number-2
+permalink: /publication/2024-02-23-paper-title-number-4
 excerpt: 'This paper serves as the first empirical research applying the Nobel Prize winning Gale-Shapley algorithm to study optimal stable matching of healthcare facilities to residential neighbourhoods.'
 date: 2024-02-23
 venue: 'Applied Economics'

@@ -13,5 +13,5 @@ Subtitle
 ======
 To be done.
 
-In my spare time, I enjoy photography. Please see my [photos](https://hlpgallery.mysxl.cn/)
+In my spare time, I enjoy photography. Please see my [photos](https://hlpgallery.mysxl.cn/).
 

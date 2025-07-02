@@ -13,10 +13,10 @@ Research Interest
 ======
 1. Urban economics, financial analysis, and real estate markets.
 2. Spatial matching, location allocation and location choice, employing OR and game theory.
-3. Win-win planning strategies.
+3. Win-win planning strategies.  
 ...
 
-In my Spare TimeResearch Interest
+In my Spare Time
 ======
 I enjoy photography. Please see my [photos](https://hlpgallery.mysxl.cn/).
 

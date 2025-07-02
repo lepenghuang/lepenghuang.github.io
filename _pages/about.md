@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Lepeng Huang's home on the web! I will gradually build and update the web.
+This is Lepeng Huang's home on the web! I will gradually update the web.
 
 Research Interest
 ======

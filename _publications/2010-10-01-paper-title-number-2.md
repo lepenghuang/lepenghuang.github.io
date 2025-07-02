@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/60323c5a-caf5-4d46-aafa-9913d9e6c0b4)---
+
 title: "Systemic planning vs. individual choice: The optimal matching for urban healthcare facilities and patient population"
 collection: publications
 category: manuscripts

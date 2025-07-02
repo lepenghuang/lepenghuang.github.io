@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2 Planning or not"
+title: "Systemic planning vs. individual choice: The optimal matching for urban healthcare facilities and patient population"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2

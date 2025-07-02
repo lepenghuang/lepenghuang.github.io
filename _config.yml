@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+## Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -22,7 +22,7 @@ repository               : "LepengHuang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   name             : "Lepeng Huang"
   pronouns         : # example: "she/her"  
   bio              : "Incoming PhD student in urban planning at University of Washington"

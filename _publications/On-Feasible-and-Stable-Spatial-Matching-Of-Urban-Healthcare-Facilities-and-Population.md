@@ -3,7 +3,7 @@ title: "On Feasible and Stable Spatial Matching Of Urban Healthcare Facilities a
 collection: publications
 category: conferences
 permalink: /publication/On-Feasible-and-Stable-Spatial-Matching-Of-Urban-Healthcare-Facilities-and-Population
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper is the extended version of Simulated Stable Matching for Urban Hospitals and Residential Communities.'
 date: 2024-01-30
 venue: 'The 18th International Association for China Planning Conference and 2024 Chinese Economists Society China Annual Conference'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4751132'

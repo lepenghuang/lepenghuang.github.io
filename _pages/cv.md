@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Interdisciplinary Ph.D. Program in Urban Design and Planning , University of WahsingtonVersion, 2029 (expected)
+* Ph.D in Interdisciplinary Ph.D. Program in Urban Design and Planning , University of Wahsington, 2029 (expected)
 * Master in Urban Planning, Zhejiang University, 2025
 * B.Eng. in Urban and Rural Planning, Zhejiang University, 2023
 
@@ -61,4 +61,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Academic Volunteers, City+ Research network, Summer 2025–Present
+* Class Monitor and Leader, Zhejiang University, Fall 2019–Summer 2023
+* Leader of Photography Department and Deputy Director, Radio and Television Station of Zhejiang University, Fall 2020–Summer 2021

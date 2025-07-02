@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 4"
+title: "Simulated stable matching for urban hospitals and residential communities"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/Simulated-stable-matching-for-urban-hospitals-and-residential-communities
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'

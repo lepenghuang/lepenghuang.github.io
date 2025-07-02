@@ -22,7 +22,14 @@ Research Experience
 * National Undergraduate Training Program for Innovation & Entrepreneurship, China	Spring 2020 – Spring 2021
   * Participant, Professor Qiuxiao Chen’s group
   * Developed a resilience-oriented index to assess the spatial distribution of healthcare facilities. Applied AHP-CRITIC and matter-element analysis      methods to calculate index weights. Conducted empirical research in Hangzhou, China.
-  
+
+Professional Experience
+======
+* International Competitions, Overall Urban Design and Downtown Detailed Urban Design of Dongyang City, 2023
+* Urban Planning and Design, Science and Technology City of Zhuji City, 2022
+* Internship in Zhejiang University Urban-Rural Planning & Design Institute, 2022	
+* International Exchange Program, Urban Regeneration and Infrastructure Construction at University of Cambridge,	2020
+
 Skills
 ======
 * Skill 1

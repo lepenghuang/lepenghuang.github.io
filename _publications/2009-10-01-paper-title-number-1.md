@@ -1,5 +1,5 @@
 ---
-title: ![Systemic planning vs. individual choice: The optimal matching for urban healthcare facilities and patient population](https://www.sciencedirect.com/science/article/pii/S0143622825001365)"
+title: Systemic planning vs. individual choice: The optimal matching for urban healthcare facilities and patient population![image](https://www.sciencedirect.com/science/article/pii/S0143622825001365)"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1

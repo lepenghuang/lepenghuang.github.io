@@ -26,21 +26,21 @@ author:
   name             : "Lepeng Huang"
   pronouns         : # example: "she/her"  
   bio              : "Incoming PhD student in urban planning at University of Washington"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Seattle, WA, USA"
+  employer         : "University of Washington"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "huanglp@uw.edu" 
 
   # Academic websites
-  academia         : # URL
+  #academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : "https://scholar.google.com/citations?user=8GuNNpcAAAAJ&hl=en"
+  #impactstory      : # URL
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5068-5448"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : # URL
+  #scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

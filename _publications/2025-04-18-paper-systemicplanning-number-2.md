@@ -3,7 +3,7 @@ title: "Systemic planning vs. individual choice: The optimal matching for urban 
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper studies spatial matching by top-down planning and bottom-up individual choice.'
 date: 2025-04-18
 venue: 'Applied Geography'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'

@@ -11,8 +11,7 @@ This is Lepeng Huang's home on the web!
 
 Subtitle
 ======
-xxx.
+To be done.
 
-#For more info
-#------
-#More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki]#(https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub]$#(https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme]#(https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[My website of photography works](https://hlpgallery.mysxl.cn/)
+

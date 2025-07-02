@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is Lepeng Huang's home on the web!
+This is Lepeng Huang's home on the web! I will gradually build and update the web.
 
 Subtitle
 ======
 To be done.
 
-[My website of photography works](https://hlpgallery.mysxl.cn/)
+In my spare time, I enjoy photography. Please see my [photos](https://hlpgallery.mysxl.cn/)
 

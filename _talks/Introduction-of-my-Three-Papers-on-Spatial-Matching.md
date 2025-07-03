@@ -8,4 +8,4 @@ date: 2025-03-18
 location: "Hangzhou, China"
 ---
 
-I gave a 45-minute talk to the new graduate students at my department at the course *Planning and Urban Research Methods* instructed by Prof. Guoqiang Shen. I introduced my three published and incoming journal articles relating to the topics of spatial matching, especially about how to identify research problems, conduct research and get works published.
+I delivered a 45-minute presentation to the new graduate students in the course *Research Methods for Planning and Urban Studies*, instructed by Prof. Guoqiang Shen. During my talk, I introduced my three published and forthcoming journal articles on the topic of spatial matching, focusing on key aspects such as identifying research problems, conducting methodological research, and navigating the publication process.

@@ -3,18 +3,16 @@ title: "Teaching Assitant 1"
 collection: teaching
 type: "Upcoming"
 permalink: /teaching/Teaching-Assitant-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Washington, Runstad Department of Real Estate"
+date: xxx
+location: "Seattle, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Introduction of the Course
 ======
 
-Heading 2
+My Role
 ======
 
-Heading 3
-======

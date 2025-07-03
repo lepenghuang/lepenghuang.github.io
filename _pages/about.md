@@ -9,10 +9,11 @@ redirect_from:
 
 **This is Lepeng Huang's home on the web! I will keep updating the web.**
 
-I am going to be a PhD student in urban planning at University of Washington in September 2025. I aspired to develop behavioral foundations of social phenomena that support urban planning and developemnt. In the following years, my research will focus on urban economics, financial analysis, and real estate markets. Previous to UW, I got both my MUP and B. Eng. at Zhejiang University, where I studied location allocation and location choice, employing operations research and game theory.
-I have several independent research experiences and international academic conferences presentations. 
-Please contact me if you are interested in me!
-
+About me
+=====
+I am going to be a PhD student in urban planning at University of Washington in September 2025. I aspired to develop the behavioral foundations of social phenomena that support urban planning and developemnt. In the following years, my research will focus on urban economics, financial analysis, and real estate markets. 
+Prior to UW, I earned my Master of Urban Planning and B.Eng. from Zhejiang University, where I studied location allocation and location choice through operations research and game theory.
+My academic journey includes several independent research projects and presentations at international conferences. Please contact me if you are interested in me!
 
 General Research Interests
 ======
@@ -24,5 +25,5 @@ General Research Interests
 
 In my Spare Time
 ======
-I enjoy photography, which was developed during time at Photography Department and Deputy Director, Radio and Television Station of Zhejiang University. Please see my [photos](https://hlpgallery.mysxl.cn/).
+I enjoy photography, a skill I honed as a member (and later Deputy Director) of the Zhejiang University Radio and Television Station Photography Department. Check out my [photos](https://hlpgallery.mysxl.cn/)!
 

@@ -1,8 +1,8 @@
 ---
-title: "Teaching Assitant 1"
+title: "Upcoming Teaching Assitant"
 collection: teaching
 type: "Upcoming"
-permalink: /teaching/Teaching-Assitant-1
+permalink: /teaching/Upcoming-Teaching-Assitant
 venue: "University of Washington, Runstad Department of Real Estate"
 date: 2026
 location: "Seattle, USA"

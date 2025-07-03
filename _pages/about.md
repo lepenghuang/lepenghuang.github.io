@@ -17,10 +17,12 @@ My academic journey includes several independent research projects and presentat
 
 Research Interests
 ======
-(1) Urban economic and financial analysis.  
-(2) Real estate markets and their integration.  
-(3) Spatial matching of public service and population by location allocation and location choice, employing OR and game theory.  
-(4) Win-win strategies in (sustainable) urban planning and development.  
+* Urban economic and financial analysis.  
+* Real estate markets and their integration.  
+* Spatial matching of public service and population:
+  * Location allocation, employing OR.
+  * Location location choice, employing game theory.    
+* Win-win strategies in (sustainable) urban planning and development.  
 ...
 
 In my Spare Time

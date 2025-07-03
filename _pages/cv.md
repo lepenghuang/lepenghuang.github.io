@@ -14,7 +14,7 @@ Education
 * Ph.D in Interdisciplinary Ph.D. Program in Urban Design and Planning, University of Wahsington, 2029 (expected)
   * Advisor: Prof. Arthur Acolin.
   * Co-Advisor: Prof. Qing Shen.
-* Master's in Urban Planning, Zhejiang University, 2025
+* Master of Urban Planning, Zhejiang University, 2025
   * Advisor: Prof. Guoqiang Shen.
 * B.Eng. in Urban and Rural Planning, Zhejiang University, 2023
   * Recommended for graduate admission without entrance examination with 1st in overall ranking.

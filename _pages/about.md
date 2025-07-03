@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-**This is Lepeng Huang's home on the web! I will keep updating the web.**
+**This is my home on the web, and I will keep updating it.**
 
 I am going to be a PhD student in urban planning at University of Washington in September 2025. My research interests are deeply influenced by the dramatic downturn in China’s real estate markets and urban planning industry. Therefore, I aim to develop the behavioral foundations of related social phenomena to better inform urban planning and developemnt. In the following years, my research will focus on urban economics, financial analysis, and real estate markets.  
 

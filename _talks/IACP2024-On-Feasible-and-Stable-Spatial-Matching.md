@@ -3,9 +3,9 @@ title: "On Feasible and Stable Spatial Matching Of Urban Healthcare Facilities a
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/IACP2024-On-Feasible-and-Stable-Spatial-Matching
-venue: "Testing Institute of America 2014 Annual Conference"
+venue: "The 18th International Association for China Planning Conference"
 date: 2024-07-07
-location: "Los Angeles, CA, USA"
+location: "Hangzhou, China"
 ---
 
-This is a oral presentation at The 18th International Association for China Planning Conference.
+This is a oral presentation at the 18th International Association for China Planning Conference.

@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<br>
 **This is Lepeng Huang's home on the web! I will keep updating the web.**
 
 I am going to be a PhD student in urban planning at University of Washington in September 2025. I aspired to develop the behavioral foundations of social phenomena that support urban planning and developemnt. In the following years, my research will focus on urban economics, financial analysis, and real estate markets.  

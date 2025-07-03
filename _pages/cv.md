@@ -52,12 +52,12 @@ Professional Experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Urban economic and financial analysis.
+* Real estate markets and their integration.
+* Spatial matching of public service and population:
+  * Location allocation, employing operations research.
+  * Location choice,employing game theory.  
+* Win-win strategies in (sustainable) urban planning and development.
 
 Publications
 ======
@@ -67,14 +67,12 @@ Publications
   
 Talks
 ======
-* Working on it...
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
 ======
-* I am going to serve as a TA in the following years.
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

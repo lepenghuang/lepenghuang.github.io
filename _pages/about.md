@@ -29,3 +29,6 @@ In my Spare Time
 ======
 I enjoy photography, a skill I honed as a member (and later Deputy Director) of the Zhejiang University Radio and Television Station Photography Department. Check out my [photos](https://hlpgallery.mysxl.cn/)! I also like billiards and city walks.
 
+News
+======
+June 2025: Early graduation from Zhejiang University! It is the first time in my department, which requires meeting double standard and strict blind thesis review policy.

@@ -23,7 +23,7 @@ Research Interests
   * Location allocation, employing OR.
   * Location location choice, employing game theory.    
 * Win-win strategies in (sustainable) urban planning and development.  
-...
+* ...
 
 In my Spare Time
 ======

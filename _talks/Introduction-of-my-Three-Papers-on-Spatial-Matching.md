@@ -1,5 +1,3 @@
-yaml
-
 ---
 title: "Introduction of my Three Papers on Spatial Matching"
 collection: talks

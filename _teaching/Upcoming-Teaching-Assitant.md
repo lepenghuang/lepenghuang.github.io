@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Teaching Assitant"
 collection: teaching
-type: "Upcoming TA"
+type: "Upcoming"
 permalink: /teaching/Upcoming-Teaching-Assitant
 venue: "University of Washington, Runstad Department of Real Estate"
 date: 2026-09-25

@@ -8,7 +8,7 @@ date: 2026-09-25
 location: "Seattle, WA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Upcoming...
 
 Introduction of the Course
 ======

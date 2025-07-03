@@ -8,4 +8,4 @@ date: 2024-07-07
 location: "Hangzhou, China"
 ---
 
-This is a oral presentation at the 18th International Association for China Planning Conference.
+This is aN oral presentation at the 18th International Association for China Planning Conference.

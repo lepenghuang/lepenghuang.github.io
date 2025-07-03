@@ -1,5 +1,5 @@
 ---
-title: "On Feasible and Stable Spatial Matching Of Urban Healthcare Facilities and Population"
+title: "CES: On Feasible and Stable Spatial Matching Of Urban Healthcare Facilities and Population"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/CES2024-On-Feasible-and-Stable-Spatial-Matching

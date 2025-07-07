@@ -30,4 +30,4 @@ I enjoy photography, a skill I honed as a member (and later leader) of the Zheji
 News
 ======
 *June 2025: Early graduation from Zhejiang University!
-  * It is the first time in my department, which requires meeting double standard and strict blind thesis review policy.
+  * A first for a graduate student in my departmentIt, which requires meeting double standard and strict blind thesis review policy.

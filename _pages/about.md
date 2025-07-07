@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am going to be a PhD student in urban planning at University of Washington in September 2025. My research interests are deeply influenced by the dramatic downturn in China’s real estate markets and urban planning industry. Therefore, I aim to develop the behavioral foundations of related social phenomena to better inform urban planning and developemnt. In the following years, my research will focus on urban economics, financial analysis, and real estate markets.  
+I am going to be a PhD student in Interdisciplinary Program in Urban Design and Planning at University of Washington in September 2025. My research interests are deeply influenced by the dramatic downturn in China’s real estate markets and urban planning industry. Therefore, I aim to develop the behavioral foundations of related social phenomena to better inform urban planning and developemnt. In the following years, my research will focus on urban economics, financial analysis, and real estate markets.  
 
 Prior to UW, I earned my Master of Urban Planning and B.Eng. from Zhejiang University, where I studied location allocation and location choice through operations research and game theory.  
  
@@ -29,5 +29,5 @@ I enjoy photography, a skill I honed as a member (and later leader) of the Zheji
 
 News
 ======
-* June 2025: Early graduation from Zhejiang University!
+[June 2025]: Early graduation from Zhejiang University!
   * It is the first time in my department, which requires meeting double standard and strict blind thesis review policy.

@@ -24,8 +24,8 @@ Research Interests
 * Urban economic and financial analysis
 * Real estate markets and their integration
 * Spatial matching of public service and population
-  * Location allocation, employing operations research
   * Location choice, employing game theory
+  * Location allocation, employing operations research
 * Win-win strategies in (sustainable) urban planning and development
 
 Research Experience

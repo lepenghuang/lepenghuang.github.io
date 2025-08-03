@@ -4,14 +4,14 @@ excerpt: "Other works in urban design or related courses"
 collection: portfolio
 ---
 
-Urban regulatory plan
-![1](/images/regulatoryplan-1.jpg)
 Urban renewal design of an old town
-![1](/images/urbanregenerationdesign-1.jpg)
-![1](/images/urbanregenerationdesign-2.jpg)
+<div class="two-column-images">
+  ![a1](/images/urbanregenerationdesign-1.jpg)
+  ![a2](/images/urbanregenerationdesign-2.jpg)
+</div>
 Park design at Hangzhou, China
-![1](/images/parkdesign.jpg) 
+![b1](/images/parkdesign.jpg){:style="width: 50%;"}
 Environmental design at Zijingang Campus, Zhejiang University
-![1](/images/environmentaldesign-2.jpg)
+![c1](/images/environmentaldesign-2.jpg){:style="width: 50%;"}
 Site and architecture design
-![1](/images/archsitedesign.jpg)
+![d1](/images/archsitedesign.jpg){:style="width: 50%;"}

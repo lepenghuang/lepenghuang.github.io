@@ -30,7 +30,7 @@ Research Interests
 
 Research Experience
 ======
-* Department of Urban Design and Planning/Runstad Department of Real Estate, University of Washington, University of Washington, *Summer 2025 - Present*
+* Department of Urban Design and Planning/Runstad Department of Real Estate, University of Washington, *Summer 2025 - Present*
   * Independent Study, Advised by Prof. Arthur Acolin.
   * Analyzing the markets in real estate.
 * Department of Regional and Urban Planning, Zhejiang University, *Winter 2023 – Spring 2025*

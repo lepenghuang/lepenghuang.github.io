@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Other Works"
+excerpt: "Other works in urban design or related courses"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Urban regulatory plan
+![1](/images/regulatoryplan-1.jpg)
+Urban renewal design of an old town
+![1](/images/urbanregenerationdesign-1.jpg)
+![1](/images/urbanregenerationdesign-2.jpg)
+Park design at Hangzhou, China
+![1](/images/parkdesign.jpg) 
+Environmental design at Zijingang Campus, Zhejiang University
+![1](/images/environmentaldesign-2.jpg)   

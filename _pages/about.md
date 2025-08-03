@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 <br>
-<div style="font-family: 'Courier New', monospace; line-height: 1.6; max-width: 800px; margin: 0 auto;">
 I am going to be a PhD student in Interdisciplinary Program in Urban Design and Planning at University of Washington in September 2025.  
 
 My research interests are deeply influenced by the dramatic downturn in China’s real estate markets and urban planning industry. Therefore, I aim to develop the behavioral foundations of related social phenomena to better inform urban planning and development. In the coming years, my research will focus on urban economics, financial analysis, real estate and housing markets.  
@@ -35,4 +34,4 @@ News
 * June 2025: Early graduation from Zhejiang University!
   * The first for a graduate student in my department, which requires meeting double standard and strict blind thesis review policy.
 
-(Updated in July, 2025)
+(Updated in August, 2025)

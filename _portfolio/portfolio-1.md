@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Urban Design of Meta-JiaYuan"
+excerpt: "A group work in the urban design course in June 2022<br/><img src='/images/urbandesign-1.jpg'>"
 collection: portfolio
 ---
 

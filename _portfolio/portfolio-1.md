@@ -1,6 +1,6 @@
 ---
 title: "Urban Design of Meta-JiaYuan"
-excerpt: "A group work in the urban design course in June 2022"
+excerpt: "A group work in the urban design course completed in June 2022"
 collection: portfolio
 ---
 

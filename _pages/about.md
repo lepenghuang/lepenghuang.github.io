@@ -13,7 +13,7 @@ My research interests are deeply influenced by the dramatic downturn in China’
 
 Prior to UW, I got my MUP and B.Eng. from Zhejiang University, where I studied location allocation and location choice through operations research and game theory.  
  
-My academic journey includes several independent research experience and presentations at international conferences. Please contact me if we have shared interests!  
+My academic journey includes several research experiences and presentations at international conferences. Please contact me if we have shared interests!  
 
 Research Interests
 ======

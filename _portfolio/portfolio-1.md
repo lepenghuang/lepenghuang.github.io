@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 A group work in the urban design course in June 2022. 
-![设计效果图1](/images/urbandesign-1.jpg) 
-![设计效果图2](/images/urbandesign-2.jpg) 
-![设计效果图3](/images/urbandesign-3.jpg) 
-![设计效果图4](/images/urbandesign-4.jpg) 
+![1](/images/urbandesign-1.jpg) 
+![2](/images/urbandesign-2.jpg) 
+![3](/images/urbandesign-3.jpg) 
+![4](/images/urbandesign-4.jpg) 

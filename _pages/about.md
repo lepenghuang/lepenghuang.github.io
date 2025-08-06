@@ -34,4 +34,4 @@ News
 * June 2025: Early graduation from Zhejiang University!
   * The first for a graduate student in my department, which requires meeting double standard and strict blind thesis review policy.
 
-(Updated in August, 2025)
+(Updated in August 2025)

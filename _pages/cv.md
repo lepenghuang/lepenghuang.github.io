@@ -21,7 +21,7 @@ Education
 
 Research Interests
 ======
-* Urban economic and financial analysis
+* Urban economic
 * Real estate markets and their integration
 * Spatial matching of public service and population
   * Location choice, employing game theory

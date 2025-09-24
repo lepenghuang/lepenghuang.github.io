@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am a PhD student in Interdisciplinary Program in Urban Design and Planning at University of Washington.  
+I am a student in the Interdisciplinary PhD Program in Urban Design and Planning at University of Washington.  
 
 My research interests are deeply influenced by the dramatic downturn in China’s real estate markets and urban planning industry. Therefore, I aim to develop the behavioral foundations of related social phenomena to better inform urban planning and development. In the coming years, my research will focus on urban economics, financial analysis, real estate and housing markets.  
 

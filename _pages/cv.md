@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Interdisciplinary Program in Urban Design and Planning, University of Wahsington, *June 2029 (Expected)*
+* PhD in Interdisciplinary PhD Program in Urban Design and Planning, University of Wahsington, *June 2029 (Expected)*
   * Advisor: Prof. Arthur Acolin.
   * Co-Advisor: Prof. Qing Shen.
 * Master of Urban Planning, Zhejiang University, *June 2025 (Early Graduation)*

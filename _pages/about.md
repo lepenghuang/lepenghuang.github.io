@@ -36,4 +36,4 @@ News
   * The first for a graduate student in my department, which requires meeting double standard and strict blind thesis review policy.
 
 (Updated in August 2025)
-<p>
+</p>

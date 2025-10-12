@@ -21,18 +21,18 @@ Education
 
 Research Interests
 ======
-* Urban economics
-* Real estate markets and their integration
-* Spatial matching of public service and population
-  * Location choice, employing game theory
-  * Location allocation, employing operations research
-* Win-win strategies in (sustainable) urban planning and development
+* Urban economics.
+* Real estate and housing markets.
+* Spatial matching of public service and population:
+  * Location choice, employing game theory.
+  * Location allocation, employing operations research.
+* Win-win strategies in (sustainable) urban planning and development.
 
 Research Experience
 ======
 * Department of Urban Design and Planning/Runstad Department of Real Estate, University of Washington, *Summer 2025 - Present*
   * Independent Study, Advised by Prof. Arthur Acolin.
-  * Analyzing the markets in real estate.
+  * Analyzing the distinct but interconnected real estate markets in China.
 * Department of Regional and Urban Planning, Zhejiang University, *Winter 2023 – Spring 2025*
   * Independent Study, Advised by Prof. Guoqiang Shen.	
   * Regressed the parameters of the population’s utility function using the micro-social-economic data of Chinese residents from the CHARLS dataset.

@@ -11,7 +11,7 @@ I am a student in the Interdisciplinary PhD Program in Urban Design and Planning
 
 My research interests are deeply influenced by the boom and bust of real estate markets in China and their implications for macro economy and micro behaviors. Therefore, I aim to develop the behavioral foundations of related social phenomena to better inform urban planning and development. In the coming years, my research will focus on urban economics, real estate and housing markets.  
 
-Prior to UW, I got my MUP and B.Eng. from Zhejiang University, where I studied location choice and location allocation through game theory and operations research.  
+Prior to UW, I got my MUP and B.Eng. from Zhejiang University, where I tackled location choice and location allocation through game theory and operations research for the spatial matching of public service and population. 
  
 My academic journey includes several research experiences, as well as presentations at international conferences. **Please feel free to reach out if we have shared interests!**  
 

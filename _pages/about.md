@@ -31,7 +31,7 @@ I enjoy photography, a skill I honed as a member (and later leader) of the Zheji
 
 News
 ======
-* October 2025: Meeting of discussion and collaboration between Zhejiang University and Universty of Washington.
+* October 2025: Meeting to discuss collaboration between Zhejiang University and University of Washington, organized by staff of Development and Liaison office and Global Affairs.
 * September 2025: Started my journey at the University of Washington.
 * June 2025: Early graduation from Zhejiang University (the first for a graduate student in my department, which requires meeting double standard and strict blind thesis review policy).
 

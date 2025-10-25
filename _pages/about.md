@@ -25,7 +25,7 @@ Research Interests
 * Win-win strategies in (sustainable) urban planning and development.  
 * ...
 
-In my Spare Time
+In the Spare Time
 ======
 I enjoy photography, a skill I honed as a member (and later leader) of the Zhejiang University Radio and Television Station Photography Department. Check out my [photos](https://hlpgallery.mysxl.cn/)! I also like billiards, city walks. Since I came to US, somehow I enjoy cooking:)
 

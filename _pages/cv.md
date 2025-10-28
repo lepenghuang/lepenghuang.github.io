@@ -16,7 +16,8 @@ Education
   * Co-Advisor: Prof. Qing Shen.
 * Master of Urban Planning, Zhejiang University, *June 2025 (Early Graduation)*
   * Advisor: Prof. Guoqiang Shen.
-* B.Eng. in Urban and Rural Planning, Zhejiang University, *June 2023 (Outstanding Graduate)*
+* B.Eng. in Urban and Rural Planning, Zhejiang University, *June 2023*
+  * Outstanding graduate.
   * Recommended for graduate admission without entrance examination.
 
 Research Interests

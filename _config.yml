@@ -22,7 +22,7 @@ repository               : "LepengHuang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "个人照片.jpeg"
+  avatar           : "个人照片.jpg"
   name             : "Lepeng Huang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student @UW"

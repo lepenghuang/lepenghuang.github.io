@@ -17,7 +17,7 @@ Education
 * Master of Urban Planning, Zhejiang University, *June 2025 (Early Graduation)*
   * Advisor: Prof. Guoqiang Shen.
 * B.Eng. in Urban and Rural Planning, Zhejiang University, *June 2023 (Outstanding Graduate)*
-  * Recommended for graduate admission without entrance examination with 1st in overall ranking.
+  * Recommended for graduate admission without entrance examination.
 
 Research Interests
 ======

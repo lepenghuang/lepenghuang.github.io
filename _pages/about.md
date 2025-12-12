@@ -27,7 +27,9 @@ Research Interests
 
 In the Spare Time
 ======
-I enjoy photography, a skill I honed as a member (and later the leader) of the Zhejiang University Radio and Television Station Photography Department. Check out my [photos](https://hlpgallery.mysxl.cn/)! I also like pool and city walks. Since I came to US, somehow I enjoy cooking:)
+I enjoy photography, a skill I honed as a member (and later the leader) of the Zhejiang University Radio and Television Station Photography Department. Please check out my [photos](https://hlpgallery.mysxl.cn/)!
+
+I also like pool and city walks. Since I came to US, somehow I enjoy cooking.
 
 News
 ======

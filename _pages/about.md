@@ -18,7 +18,7 @@ My academic journey includes several research experiences, as well as presentati
 Research Interests
 ======
 * Urban economics.  
-* Real estate and housing markets.  
+* Housing policy and markets.  
 * Spatial matching of public service and population:
    * Location choice, employing game theory. 
    * Location allocation, employing operations research.    

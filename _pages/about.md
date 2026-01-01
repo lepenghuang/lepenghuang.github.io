@@ -13,7 +13,7 @@ My research interests are deeply influenced by the boom and bust (downturn) of r
 
 Prior to UW, I got my MUP and B.Eng. from Zhejiang University, where I tackled location choice and location allocation through game theory and operations research for the spatial matching of public service and population. 
  
-**Please feel free to reach out if we have shared interests!**  
+**Please feel free to reach out for shared interests!**  
 
 Research Interests
 ======

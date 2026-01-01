@@ -37,7 +37,7 @@ layout: default
           {% elsif page.date %}
             <p class="page__date">
               <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> 
-                {% if page.category == 'conference' %}
+                {% if page.category == 'conferences' %}
                   Presented on:
                 {% elsif page.category == 'working' %}
                   Written on:
@@ -53,7 +53,7 @@ layout: default
                 {% endif %}
               </time>
               {% if page.venue %}
-                {% if page.category == 'conference' %} at {% else %} in {% endif %} <i>{{ page.venue }}</i>
+                {% if page.category == 'conferences' %} at {% else %} in {% endif %} <i>{{ page.venue }}</i>
               {% endif %}
             </p>
           {% endif %}

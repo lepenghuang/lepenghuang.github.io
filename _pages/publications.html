@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Here are my <a href="{{site.author.googlescholar}}">Google Scholar profile</a> and [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-5068-5448).</div>
+<div class="wordwrap">
+  Here are my <a href="{{ site.author.googlescholar }}">Google Scholar profile</a> and <a href="https://orcid.org/0000-0001-5068-5448">ORCID</a>.
+</div>
 {% endif %}
 
 {% include base_path %}

@@ -42,7 +42,9 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "2026-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           {% if post.category == 'working' %}
-            <p>Written on {{ post.date | default: "2026-01-01" | date: "%Y" }}</p>
+            <p>Written on {{ post.date | date: "%Y" }}</p>
+          {% elsif post.category == 'conference' %}
+             <p>Presented on <i>{{ post.venue }}</i>, {{ post.date | default: "2026-01-01" | date: "%Y" }} </p>
           {% else %}
             <p>Published on <i>{{ post.venue }}</i>, {{ post.date | default: "2026-01-01" | date: "%Y" }} </p>
           {% endif %}

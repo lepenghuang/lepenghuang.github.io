@@ -13,7 +13,7 @@ My research interests are deeply influenced by the boom and bust (downturn) of r
 
 Prior to UW, I got my MUP and B.Eng. from Zhejiang University, where I tackled location choice and location allocation through game theory and operations research for the spatial matching of public service and population. 
  
-My academic journey includes several research experiences, as well as presentations at international conferences. **Please feel free to reach out if we have shared interests!**  
+**Please feel free to reach out if we have shared interests!**  
 
 Research Interests
 ======
@@ -35,4 +35,4 @@ News
 * September 2025: Started my journey at the University of Washington.
 * June 2025: Early graduation from Zhejiang University (the first for a graduate student in my department, which requires meeting double standard and strict blind thesis review policy).
 
-*(Updated in December 2025)*
+*(Updated in January 2026)*

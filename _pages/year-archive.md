@@ -1,7 +1,6 @@
 ---
 layout: single
 permalink: /year-archive/
-title: "News"
 author_profile: true
 ---
 

@@ -27,6 +27,6 @@ Research Interests
 
 In the Spare Time
 ======
-I enjoy photography, a skill I cultivated in my undergraduate photography student organization. Please see my [photos](https://hlpgallery.mysxl.cn/)! I also like pool and city walks. Since I came to US, somehow I enjoy cooking.
+I enjoy photography, a skill I cultivated in my undergraduate student organization of photography. Please see my [photos](https://hlpgallery.mysxl.cn/)! I also like pool and city walks. Since I came to US, somehow I enjoy cooking.
 
 *(Updated in January 2026)*

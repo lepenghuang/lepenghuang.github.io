@@ -4,7 +4,7 @@ permalink: /year-archive/
 author_profile: true
 ---
 
-* **[January 2026]**: Served as a student representative during 2026 and 2027 in the Interdisciplinary Ph.D. Program in Urban Design and Planning at the University of Washington.   
+* **[January 2026]**: Served as a student representative during 2026 and 2027 in my Ph.D. Program at the University of Washington.   
 
 * **[October 2025]**: Attended the meeting to discuss collaboration between Zhejiang University and University of Washington, organized by staff of Development and Liaison Office and Global Affairs.
 

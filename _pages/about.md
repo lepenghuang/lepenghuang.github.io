@@ -29,10 +29,4 @@ In the Spare Time
 ======
 I enjoy photography, a skill I honed as a member (and later the leader) of the Zhejiang University Radio and Television Station Photography Department. Please check out my [photos](https://hlpgallery.mysxl.cn/)! I also like pool and city walks. Since I came to US, somehow I enjoy cooking.
 
-News
-======
-* October 2025: Meeting to discuss collaboration between Zhejiang University and University of Washington, organized by staff of Development and Liaison Office and Global Affairs.
-* September 2025: Started my journey at the University of Washington.
-* June 2025: Early graduation from Zhejiang University (the first for a graduate student in my department, which requires meeting double standard and strict blind thesis review policy).
-
 *(Updated in January 2026)*

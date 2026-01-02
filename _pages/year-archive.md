@@ -10,4 +10,6 @@ author_profile: true
 
 * **[September 2025]**: Started my Ph.D. journey at the University of Washington.
 
+* **[July 2025]**: Hosted a fellow presentation in the City+ Research Network for Interdisciplinary Urban Studies (). 
+
 * **[June 2025]**: Early graduation of MUP from Zhejiang University (the first for a graduate student in my department).  

@@ -22,7 +22,7 @@ Research Interests
 * Spatial matching of public service and population:
    * Location choice, employing game theory. 
    * Location allocation, employing operations research.    
-* Win-win strategies in urban planning and development.  
+* Win-win strategies in trackling planning problems.  
 * ...
 
 In the Spare Time

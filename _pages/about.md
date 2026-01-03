@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <br>
-I am Lepeng Huang (黄乐鹏), a student in the Interdisciplinary Ph.D. Program in Urban Design and Planning at the University of Washington.  
+I am a student in the Interdisciplinary Ph.D. Program in Urban Design and Planning at the University of Washington.  
   
 My research interests are deeply influenced by the boom and downturn of real estate market in China and the outcomes for macro economy and micro behaviors. Therefore, my research investigates the roles of households, firms, and governments, and the interactions across the space, asset, and capital markets. By unraveling the empirical evidence and establishing the behavioral foundations of related social phenomena, I aim to provide insights that better inform urban planning and development.  
 

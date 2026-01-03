@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "Academic Profile"
-title                    : "Academic Profile"
+title                    : "Lepeng Huang"
 title_separator          : "-"
 name                     : &name "Lepeng Huang"
 description              : &description "Ph.D. student"

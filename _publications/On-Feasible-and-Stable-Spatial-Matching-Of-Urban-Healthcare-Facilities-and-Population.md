@@ -7,7 +7,7 @@ excerpt: 'This paper is the extended version of Simulated Stable Matching for Ur
 date: 2024-01-30
 venue: 'The 18th International Association for China Planning Conference and 2024 Chinese Economists Society China Annual Conference'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4751132'
-citation: 'Huang, Lepeng and Shen, Guoqiang and Zhang, Kexun and Coursey, David, On Feasible and Stable Spatial Matching Of Urban Healthcare Facilities and Population (January 30, 2024). Available at SSRN: https://ssrn.com/abstract=4751132 or http://dx.doi.org/10.2139/ssrn.4751132'
+citation: 'Huang, L., Shen, G., Zhang, K., & Coursey, D. (2024). On Feasible and Stable Spatial Matching Of Urban Healthcare Facilities and Population. Available at SSRN: http://dx.doi.org/10.2139/ssrn.4751132'
 ---
 
 **Abstract**: As an essential type of public facility for quality urban living, healthcare facilities in cities face an optimal utilization problem for their services. The nature of this problem is primarily due to mismatch between healthcare facilities and their intended population, leading to unstable healthcare services to underserved or overserved population. This research establishes a novel methodology for stable spatial matching from a behavioral perspective and applies the well-known two-sided matching theory considering key factors, such as location, level, price, and preference, to better analyze and plan healthcare facilities for population. Various feasible and stable spatial matching results based on utility trade-offs among factors are investigated with respect to healthcare services and population choices.

@@ -3,11 +3,13 @@ layout: single
 permalink: /year-archive/
 author_profile: true
 ---
+
 **2026**  
 
 * **[January]**: Started to serve as a academic volunter of the journal [Frontiers of Urban and Rural Planning](https://link-springer-com.offcampus.lib.washington.edu/journal/44243).
 
 * **[January]**: Started to serve as a student representative during 2026 and 2027 in my Ph.D. Program at the University of Washington.   
+
 
 **2025**  
 

@@ -4,7 +4,6 @@ title: "News"
 permalink: /year-archive/
 author_profile: true
 ---
-
 <div style="margin-top: 2em;"></div>
 
 2026

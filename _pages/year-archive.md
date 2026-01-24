@@ -10,6 +10,7 @@ author_profile: true
 
 * **[January]**: Started to serve as a student representative during 2026 and 2027 in my Ph.D. Program at the University of Washington.   
 
+
   
 **2025**  
 

@@ -5,7 +5,7 @@ permalink: /year-archive/
 author_profile: true
 ---
 
-<br>
+<div style="margin-top: 2em;"></div>
 
 2026
 ======

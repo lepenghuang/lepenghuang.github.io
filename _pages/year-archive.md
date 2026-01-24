@@ -3,7 +3,6 @@ layout: single
 permalink: /year-archive/
 author_profile: true
 ---
-
 2026
 ======
 

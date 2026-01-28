@@ -4,7 +4,7 @@ collection: teaching
 type: "Upcoming"
 permalink: /teaching/Upcoming-Teaching-Assistant
 venue: "University of Washington, Runstad Department of Real Estate"
-date: 2026-09-25
+date: 2026-09-29
 location: "Seattle, WA, USA"
 ---
 

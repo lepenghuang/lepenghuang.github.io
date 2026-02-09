@@ -84,12 +84,12 @@ h1, h2, h3, h4, h5, h6 {
 
 /* 修正了 1.1em 的空格，并根据你的注释建议微调了 h1 的层级 */
 h1 {
-  font-size: 2.0em !important;            /* 按照注释改为 2 倍大 */
+  font-size: 1.5em !important;            /* 按照注释改为 2 倍大 */
   font-weight: 800 !important;            /* 按照注释改为 800 */
 }
 
 h2 {
-  font-size: 1.5em !important;            /* 按照注释改为 1.5 倍大 */
+  font-size: 1.2em !important;            /* 按照注释改为 1.5 倍大 */
   font-weight: 600 !important;            
 }
 
@@ -109,6 +109,6 @@ h3, h4, h5, h6 {
 .author__urls-wrapper li {
   font-family: "Avenir", Helvetica, Arial, sans-serif !important;
   font-weight: 400 !important; 
-  color: inherit !important;              /* 解决颜色浅导致的视觉变细问题 */
+  // color: inherit !important;              /* 解决颜色浅导致的视觉变细问题 */
   -webkit-font-smoothing: antialiased;
 }

@@ -19,7 +19,6 @@ Please feel free to reach out if we have shared interests!
 
 Research Interests
 ======
-<div style="margin-top: 1.2em;"></div>
 * Urban economics.  
 * Housing policy and market.  
 * Spatial matching of public service and population:
@@ -32,7 +31,6 @@ Research Interests
 
 In the Spare Time
 ======
-<div style="margin-top: 1.2em;"></div>
 I enjoy photography, a skill I cultivated in my undergraduate student organization of photography. Please see my [photos](https://hlpgallery.mysxl.cn/)! I also like pool and city walks. Since I came to US, I have been enjoying cooking somehow.
 
 *(Updated in February 2026)*

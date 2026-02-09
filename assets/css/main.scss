@@ -59,3 +59,19 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar, .masthead, .archive {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
+
+/* --- 强制正文两端对齐 --- */
+p {
+  text-align: justify !important;
+  text-justify: inter-word; /* 针对部分浏览器的优化 */
+  
+  /* 开启自动断句（Hyphenation），防止两端对齐时单词间出现过大空格 */
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+/* 如果你希望列表（如 Research Interests）也两端对齐 */
+li {
+  text-align: justify !important;
+}

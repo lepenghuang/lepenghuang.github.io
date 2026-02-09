@@ -42,12 +42,15 @@
 ;
 
 
+/* ==========================================================================
+   学术主页样式定制
+   ========================================================================== */
+
 /* 1. 全局正文与排版设置 */
 body {
-  /* 字体设置：Helvetica Neue 优先，兼容中文字体 */
   font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif !important;
   font-weight: 400 !important;
-  line-height: 1.15 !important;           /* 紧凑行距 */
+  line-height: 1.2 !important;           /* 紧凑行距 */
   text-align: justify !important;         /* 两端对齐 */
   text-justify: inter-word;
   -webkit-font-smoothing: antialiased;    /* Mac 字体平滑 */
@@ -56,7 +59,7 @@ body {
 /* 2. 段落与列表细节 */
 p {
   margin-bottom: 1em !important;          /* 段落间距 */
-  hyphens: auto;                          /* 自动断句防止两端对齐出现大空格 */
+  hyphens: auto;                          /* 自动断句 */
   -webkit-hyphens: auto;
 }
 
@@ -64,7 +67,7 @@ li {
   text-align: justify !important;         /* 列表内容两端对齐 */
 }
 
-/* 3. 顶部导航与个人品牌 (加粗设置) */
+/* 3. 顶部导航与个人品牌 */
 .site-title {
   font-weight: 800 !important;            /* 左上角姓名：特粗 */
 }
@@ -73,13 +76,17 @@ li {
   font-weight: 700 !important;            /* 导航标签 (News, CV等)：加粗 */
 }
 
-/* 4. 正文标题层级 (Weight 递减) */
+/* 4. 正文标题层级 (统一字号为 1.5 倍) */
+h1, h2, h3, h4, h5, h6 {
+  font-size: 1.5em !important;            /* 统一设为正文的 1.5 倍大 */
+}
+
 h1 {
-  font-weight: 600 !important;            /* 页面主标题 (About Me) */
+  font-weight: 600 !important;            /* 页面主标题：特粗 */
 }
 
 h2 {
-  font-weight: 600 !important;            /* 板块标题 (Research Interests) */
+  font-weight: 600 !important;            /* 板块标题：中等加粗 */
 }
 
 h3, h4, h5, h6 {

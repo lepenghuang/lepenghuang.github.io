@@ -89,17 +89,17 @@ h1, h2, h3, h4, h5, h6 {
    将 h1 (About Me) 设为 2 倍大，800 字重；
    将 h2 (Research Interests) 保持 1.5 倍大，600 字重。 */
 h1 {
-  font-size: 1.15em !important;            /* 增大字号以示区分 */
+  font-size: 1.25 em !important;            /* 增大字号以示区分 */
   font-weight: 600 !important;            /* 提升到特粗 */
 }
 
 h2 {
-  font-size: 1.15em !important;            
+  font-size: 1.25 em !important;            
   font-weight: 600 !important;            
 }
 
 h3, h4, h5, h6 {
-  font-size: 1.05 em !important;           
+  font-size: 1.15 em !important;           
   font-weight: 500 !important;            
 }
 

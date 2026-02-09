@@ -41,56 +41,52 @@
     "vendor/font-awesome/brands"
 ;
 
-/* --- 强制改为 Helvetica Neue 风格 --- */
+
+/* 1. 全局正文与排版设置 */
 body {
-  /* 按照优先级排列：Helvetica Neue -> 系统默认无衬线字体 -> 微软雅黑(中) -> 备用 */
+  /* 字体设置：Helvetica Neue 优先，兼容中文字体 */
   font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif !important;
-  font-weight: 500 !important;
-  -webkit-font-smoothing: antialiased; /* 在 Mac 上开启抗锯齿，让字体更清晰 */
+  font-weight: 400 !important;
+  line-height: 1.15 !important;           /* 紧凑行距 */
+  text-align: justify !important;         /* 两端对齐 */
+  text-justify: inter-word;
+  -webkit-font-smoothing: antialiased;    /* Mac 字体平滑 */
 }
 
-/* --- 顶部全局导航设置 --- */
+/* 2. 段落与列表细节 */
+p {
+  margin-bottom: 1em !important;          /* 段落间距 */
+  hyphens: auto;                          /* 自动断句防止两端对齐出现大空格 */
+  -webkit-hyphens: auto;
+}
 
-/* 1. 左上角的姓名 (Lepeng Huang) 设置为特粗 800 */
+li {
+  text-align: justify !important;         /* 列表内容两端对齐 */
+}
+
+/* 3. 顶部导航与个人品牌 (加粗设置) */
 .site-title {
-  font-weight: 800 !important;
+  font-weight: 800 !important;            /* 左上角姓名：特粗 */
 }
 
-/* 2. 导航栏标签 (News, Publications, CV 等) 设置为 700 */
 .masthead__menu-item a {
-  font-weight: 700 !important;
+  font-weight: 700 !important;            /* 导航标签 (News, CV等)：加粗 */
 }
 
-/* --- 正文标题层级设置 --- */
-
-/* 3. 页面主标题 (About Me) 和 板块标题 (Research Interests) 设置为 600 */
-/* 在你的 AcademicPages 模板中，About Me 通常是 h1，Research Interests 是 h2 */
-h1, h2 {
-  font-weight: 600 !important;
+/* 4. 正文标题层级 (Weight 递减) */
+h1 {
+  font-weight: 600 !important;            /* 页面主标题 (About Me) */
 }
 
-/* 4. 其余更小的子标题 (h3-h6) 保持在 500 以示区分 */
+h2 {
+  font-weight: 600 !important;            /* 板块标题 (Research Interests) */
+}
+
 h3, h4, h5, h6 {
-  font-weight: 500 !important;
+  font-weight: 500 !important;            /* 较小的子标题 */
 }
 
-/* 针对侧边栏和个人简介的特别优化 */
+/* 5. 侧边栏与特定区域字体同步 */
 .sidebar, .masthead, .archive {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-}
-
-/* --- 强制正文两端对齐 --- */
-p {
-  text-align: justify !important;
-  text-justify: inter-word; /* 针对部分浏览器的优化 */
-  
-  /* 开启自动断句（Hyphenation），防止两端对齐时单词间出现过大空格 */
-  hyphens: auto;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-}
-
-/* 如果你希望列表（如 Research Interests）也两端对齐 */
-li {
-  text-align: justify !important;
 }

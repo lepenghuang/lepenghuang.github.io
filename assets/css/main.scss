@@ -41,22 +41,21 @@
     "vendor/font-awesome/brands"
 ;
 
-/* --- 强制改为 Helvetica Neue Light 风格 --- */
+/* --- 强制改为 Helvetica Neue 风格 --- */
 body {
-  /* 优先调用 Light 版本的字体名，并辅以字重设置 */
-  font-family: "Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif !important;
-  font-weight: 300 !important;
-  -webkit-font-smoothing: antialiased; /* 让字体在 Mac 上看起来更丝滑 */
+  /* 按照优先级排列：Helvetica Neue -> 系统默认无衬线字体 -> 微软雅黑(中) -> 备用 */
+  font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif !important;
+  font-weight: 400 !important;
+  -webkit-font-smoothing: antialiased; /* 在 Mac 上开启抗锯齿，让字体更清晰 */
 }
 
-/* 标题部分：如果你希望标题也用细体，保留下面的 300；如果希望标题厚重一点，可以改为 400 或 500 */
+/* 确保标题也同步更新 */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, Arial, sans-serif !important;
-  font-weight: 300 !important;
-  letter-spacing: 0.5px; /* 细体字稍微增加一点字间距会更好看 */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-weight: 600 !important; /* 标题稍微加粗一点 */
 }
 
-/* 侧边栏和正文中的加粗文字，依然保留粗体感 */
-strong, b {
-  font-weight: 700 !important;
+/* 针对侧边栏和个人简介的特别优化 */
+.sidebar, .masthead, .archive {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }

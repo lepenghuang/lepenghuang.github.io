@@ -49,22 +49,29 @@ body {
   -webkit-font-smoothing: antialiased; /* 在 Mac 上开启抗锯齿，让字体更清晰 */
 }
 
-/* --- 标题层级加粗设置 --- */
-/* 一级标题（通常是你的名字或页面大标题）：特粗 */
-h1 {
+/* --- 顶部全局导航设置 --- */
+
+/* 1. 左上角的姓名 (Lepeng Huang) 设置为特粗 800 */
+.site-title {
   font-weight: 800 !important;
 }
-/* 二级标题（如 Research Interests, Publications）：中等加粗 */
-h2 {
-  font-weight: 600 !important;
-}
-/* 其他各级标题（h3-h6）：适度加粗 */
-h3, h4, h5, h6 {
-  font-weight: 500 !important;
+
+/* 2. 导航栏标签 (News, Publications, CV 等) 设置为 700 */
+.masthead__menu-item a {
+  font-weight: 700 !important;
 }
 
-.masthead__menu-item a {
-  font-weight: 600 !important; /* 如果觉得不够粗，可以改到 800 */
+/* --- 正文标题层级设置 --- */
+
+/* 3. 页面主标题 (About Me) 和 板块标题 (Research Interests) 设置为 600 */
+/* 在你的 AcademicPages 模板中，About Me 通常是 h1，Research Interests 是 h2 */
+h1, h2 {
+  font-weight: 600 !important;
+}
+
+/* 4. 其余更小的子标题 (h3-h6) 保持在 500 以示区分 */
+h3, h4, h5, h6 {
+  font-weight: 500 !important;
 }
 
 /* 针对侧边栏和个人简介的特别优化 */

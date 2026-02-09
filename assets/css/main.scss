@@ -50,7 +50,7 @@
 body {
   font-family: "Avenir", sans-serif !important;
   font-weight: 400 !important;
-  line-height: 1.5 !important;           
+  line-height: 1.2 !important;           
   text-align: justify !important;         
   text-justify: inter-word;
   -webkit-font-smoothing: antialiased;    
@@ -69,7 +69,7 @@ li {
 
 /* 3. 顶部导航与个人品牌 (保持高字重层级) */
 .site-title {
-  font-family: "Avenir", sans-serif !important;
+  font-family: "Arial", sans-serif !important;
   font-weight: 800 !important;            /* 左上角姓名：特粗 */
 }
 
@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
    将 h1 (About Me) 设为 2 倍大，800 字重；
    将 h2 (Research Interests) 保持 1.5 倍大，600 字重。 */
 h1 {
-  font-size: 1.2 em !important;            /* 增大字号以示区分 */
+  font-size: 1.1 em !important;            /* 增大字号以示区分 */
   font-weight: 600 !important;            /* 提升到特粗 */
 }
 

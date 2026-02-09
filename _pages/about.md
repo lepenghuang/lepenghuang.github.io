@@ -31,4 +31,4 @@ In the Spare Time
 <div style="margin-top: 1.2em;"></div>
 I enjoy photography, a skill I cultivated in my undergraduate student organization of photography. Please see my [photos](https://hlpgallery.mysxl.cn/)! I also like pool and city walks. Since I came to US, I have been enjoying cooking somehow.
 
-*(Updated in January 2026)*
+*(Updated in February 2026)*

@@ -51,7 +51,7 @@ body {
   /* 按照要求全部改为 Arial */
   font-family: "Arial", sans-serif !important;
   font-weight: 400 !important;
-  line-height: 1.2 !important;           
+  line-height: 1.5 !important;           
   text-align: justify !important;         
   text-justify: inter-word;
   -webkit-font-smoothing: antialiased;    
@@ -76,7 +76,7 @@ li {
 
 .masthead__menu-item a {
   font-family: "Arial", sans-serif !important;
-  font-weight: 700 !important;            /* 导航标签：加粗 */
+  font-weight: 600 !important;            /* 导航标签：加粗 */
 }
 
 /* 4. 正文标题层级优化 */
@@ -89,17 +89,17 @@ h1, h2, h3, h4, h5, h6 {
    将 h1 (About Me) 设为 2 倍大，800 字重；
    将 h2 (Research Interests) 保持 1.5 倍大，600 字重。 */
 h1 {
-  font-size: 1.25em !important;            /* 增大字号以示区分 */
-  font-weight: 600 !important;            /* 提升到特粗 */
+  font-size: 1.15em !important;            /* 增大字号以示区分 */
+  font-weight: 500 !important;            /* 提升到特粗 */
 }
 
 h2 {
-  font-size: 1.25em !important;            
-  font-weight: 600 !important;            
+  font-size: 1.15em !important;            
+  font-weight: 500 !important;            
 }
 
 h3, h4, h5, h6 {
-  font-size: 1.25em !important;           
+  font-size: 1.05 em !important;           
   font-weight: 500 !important;            
 }
 

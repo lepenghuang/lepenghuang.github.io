@@ -1,6 +1,11 @@
 ---
 ---
 
+/* 1. 在这里定义字体变量 */
+/* 大多数 AcademicPages 模板使用 $sans-serif 或 $base-font-family */
+$sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$base-font-family: $sans-serif;
+
 /*
  * This file controls what is imported from /_sass
  *

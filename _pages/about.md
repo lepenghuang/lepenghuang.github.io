@@ -13,7 +13,7 @@ My research interests are deeply influenced by the boom and downturn of real est
 
 Prior to UW, I got my MUP and B.Eng. from Zhejiang University. Advised by Prof. [Guoqiang Shen](https://person.zju.edu.cn/en/shen), I tackled location choice and location allocation through game theory and operations research for the spatial matching of public service and population.  
  
-**Please feel free to reach out for shared interests!**  
+Please feel free to reach out if we have shared interests!
 
 Research Interests
 ======

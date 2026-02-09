@@ -41,17 +41,22 @@
     "vendor/font-awesome/brands"
 ;
 
-/* --- 强制全局字体覆盖（衬线体风格） --- */
+/* --- 强制改为 Helvetica Neue Light 风格 --- */
 body {
-  font-family: "Times New Roman", Times, "Songti SC", "SimSun", "STSong", serif !important;
+  /* 优先调用 Light 版本的字体名，并辅以字重设置 */
+  font-family: "Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif !important;
+  font-weight: 300 !important;
+  -webkit-font-smoothing: antialiased; /* 让字体在 Mac 上看起来更丝滑 */
 }
 
-/* 确保所有标题也同步修改 */
+/* 标题部分：如果你希望标题也用细体，保留下面的 300；如果希望标题厚重一点，可以改为 400 或 500 */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Times New Roman", Times, "Songti SC", "SimSun", "STSong", serif !important;
+  font-family: "Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, Arial, sans-serif !important;
+  font-weight: 300 !important;
+  letter-spacing: 0.5px; /* 细体字稍微增加一点字间距会更好看 */
 }
 
-/* 修正侧边栏和导航栏可能存在的字体偏差 */
-.sidebar, .masthead, .archive {
-  font-family: "Times New Roman", Times, "Songti SC", "SimSun", "STSong", serif !important;
+/* 侧边栏和正文中的加粗文字，依然保留粗体感 */
+strong, b {
+  font-weight: 700 !important;
 }

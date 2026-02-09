@@ -1,10 +1,15 @@
 ---
 ---
 
-/* 1. 在这里定义字体变量 */
-/* 大多数 AcademicPages 模板使用 $sans-serif 或 $base-font-family */
-$sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-$base-font-family: $sans-serif;
+// /* 1. 在这里定义字体变量 */
+// /* 大多数 AcademicPages 模板使用 $sans-serif 或 $base-font-family */
+// $sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+// $base-font-family: $sans-serif;
+
+/* 1. 在顶部定义 Times New Roman 字体栈 */
+$serif: "Times New Roman", Times, Baskerville, Georgia, serif;
+$sans-serif: "Times New Roman", Times, Baskerville, Georgia, serif; /* 如果你希望全局（包括导航栏）都变 */
+$base-font-family: $serif;
 
 /*
  * This file controls what is imported from /_sass

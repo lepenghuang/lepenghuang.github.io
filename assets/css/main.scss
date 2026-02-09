@@ -55,6 +55,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 800 !important; /* 标题稍微加粗一点 */
 }
 
+.masthead__menu-item a {
+  font-weight: 700 !important; /* 如果觉得不够粗，可以改到 800 */
+}
+
 /* 针对侧边栏和个人简介的特别优化 */
 .sidebar, .masthead, .archive {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;

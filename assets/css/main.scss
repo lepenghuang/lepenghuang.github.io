@@ -45,7 +45,7 @@
 body {
   /* 按照优先级排列：Helvetica Neue -> 系统默认无衬线字体 -> 微软雅黑(中) -> 备用 */
   font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif !important;
-  font-weight: 500 !important;
+  font-weight: 400 !important;
   -webkit-font-smoothing: antialiased; /* 在 Mac 上开启抗锯齿，让字体更清晰 */
 }
 

@@ -15,7 +15,7 @@ Prior to UW, I got my MUP and B.Eng. from Zhejiang University. Advised by Prof. 
  
 Please feel free to reach out if we have shared interests!  
 
-<div style="margin-top: 1em;"></div>
+<div style="margin-top: 1.5em;"></div>
 
 Research Interests
 ======
@@ -28,7 +28,7 @@ Research Interests
 * Win-win strategies in trackling planning problems.  
 * ...
 
-<div style="margin-top: 1em;"></div>
+<div style="margin-top: 1.5em;"></div>
 
 In the Spare Time
 ======

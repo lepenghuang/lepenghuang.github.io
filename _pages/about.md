@@ -23,7 +23,7 @@ Research Interests
 * Housing policy and market.  
 * Spatial matching of public service and population:
    * Bottom-up location choice, employing game theory. 
-   * Top-down location allocation, employing operations research.    
+   * Top-down location allocation, employing operations research.   
 * Win-win strategies in trackling planning problems.  
 * ...
 

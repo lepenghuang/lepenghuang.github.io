@@ -1,16 +1,6 @@
 ---
 ---
 
-// /* 1. 在这里定义字体变量 */
-// /* 大多数 AcademicPages 模板使用 $sans-serif 或 $base-font-family */
-// $sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-// $base-font-family: $sans-serif;
-
-/* 1. 在顶部定义 Times New Roman 字体栈 */
-$sans-serif: "Times New Roman", Times, "Songti SC", "SimSun", "STSong", serif;
-$base-font-family: $sans-serif;
-$header-font-family: $sans-serif;
-
 /*
  * This file controls what is imported from /_sass
  *
@@ -50,3 +40,18 @@ $header-font-family: $sans-serif;
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* --- 强制全局字体覆盖（衬线体风格） --- */
+body {
+  font-family: "Times New Roman", Times, "Songti SC", "SimSun", "STSong", serif !important;
+}
+
+/* 确保所有标题也同步修改 */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Times New Roman", Times, "Songti SC", "SimSun", "STSong", serif !important;
+}
+
+/* 修正侧边栏和导航栏可能存在的字体偏差 */
+.sidebar, .masthead, .archive {
+  font-family: "Times New Roman", Times, "Songti SC", "SimSun", "STSong", serif !important;
+}

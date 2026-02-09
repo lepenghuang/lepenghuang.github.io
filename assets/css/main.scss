@@ -49,7 +49,7 @@
 /* 1. 全局正文与排版设置 */
 body {
   /* 按照要求全部改为 Arial */
-  font-family: "Arial", sans-serif !important;
+  font-family: "Helvetica Neue", sans-serif !important;
   font-weight: 400 !important;
   line-height: 1.5 !important;           
   text-align: justify !important;         
@@ -82,7 +82,7 @@ li {
 /* 4. 正文标题层级优化 */
 /* 统一修改字体 */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Arial", sans-serif !important;
+  font-family: "Helvetica Neue", sans-serif !important;
 }
 
 /* 解决 h1/h2 看起来一样的问题：
@@ -90,12 +90,12 @@ h1, h2, h3, h4, h5, h6 {
    将 h2 (Research Interests) 保持 1.5 倍大，600 字重。 */
 h1 {
   font-size: 1.15em !important;            /* 增大字号以示区分 */
-  font-weight: 500 !important;            /* 提升到特粗 */
+  font-weight: 600 !important;            /* 提升到特粗 */
 }
 
 h2 {
   font-size: 1.15em !important;            
-  font-weight: 500 !important;            
+  font-weight: 600 !important;            
 }
 
 h3, h4, h5, h6 {
@@ -105,5 +105,5 @@ h3, h4, h5, h6 {
 
 /* 5. 侧边栏与特定区域字体同步 */
 .sidebar, .masthead, .archive {
-  font-family: "Arial", sans-serif !important;
+  font-family: "Helvetica Neue", sans-serif !important;
 }

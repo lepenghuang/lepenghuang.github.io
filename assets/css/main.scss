@@ -7,9 +7,9 @@
 // $base-font-family: $sans-serif;
 
 /* 1. 在顶部定义 Times New Roman 字体栈 */
-$serif: "Times New Roman", Times, Baskerville, Georgia, serif;
-$sans-serif: "Times New Roman", Times, Baskerville, Georgia, serif; /* 如果你希望全局（包括导航栏）都变 */
-$base-font-family: $serif;
+$sans-serif: "Times New Roman", Times, "Songti SC", "SimSun", "STSong", serif;
+$base-font-family: $sans-serif;
+$header-font-family: $sans-serif;
 
 /*
  * This file controls what is imported from /_sass

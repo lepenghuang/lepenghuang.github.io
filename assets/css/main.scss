@@ -112,3 +112,22 @@ h3, h4, h5, h6 {
   color: inherit !important;              /* 解决颜色浅导致的视觉变细问题 */
   -webkit-font-smoothing: antialiased;
 }
+
+/* 专门收紧列表间距，使其与 1.5 行高的正文匹配 */
+.page__content li, 
+.archive li {
+  margin-bottom: 0.1em !important; /* 默认通常是 0.5em，调小可以显著收紧 */
+  margin-top: 0 !important;
+}
+
+/* 如果你的列表项内部被自动包裹了 <p> 标签，也需要取消其边距 */
+.page__content li p {
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* 针对 Research Interests 下的嵌套缩进列表进行微调 */
+.page__content li > ul {
+  margin-top: 0 !important;
+  margin-bottom: 0.2em !important;
+}

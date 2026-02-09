@@ -49,10 +49,18 @@ body {
   -webkit-font-smoothing: antialiased; /* 在 Mac 上开启抗锯齿，让字体更清晰 */
 }
 
-/* 确保标题也同步更新 */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  font-weight: 600 !important; /* 标题稍微加粗一点 */
+/* --- 标题层级加粗设置 --- */
+/* 一级标题（通常是你的名字或页面大标题）：特粗 */
+h1 {
+  font-weight: 800 !important;
+}
+/* 二级标题（如 Research Interests, Publications）：中等加粗 */
+h2 {
+  font-weight: 600 !important;
+}
+/* 其他各级标题（h3-h6）：适度加粗 */
+h3, h4, h5, h6 {
+  font-weight: 500 !important;
 }
 
 .masthead__menu-item a {

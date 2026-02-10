@@ -5,44 +5,50 @@ permalink: /publications/
 author_profile: true
 ---
 <style>
-  /* 1. 题目与下方 "Published on" 的间距 */
+  /* --- 1. 论文条目内部：极致紧凑 --- */
+
+  /* 题目与下方文字归零 */
   .archive__item-title {
     margin-top: 0 !important;
-    margin-bottom: 0 !important; /* 先归零，由下方的 line-height 统一控制 */
+    margin-bottom: 0 !important;
   }
 
-  /* 2. 统一控制日期段落、简介段落、以及下载链接的间距 */
-  /* 这里的核心是确保所有 p 标签和 a 标签的上下间距逻辑完全闭合 */
+  /* 核心：消除 Published on 和 简介段落之间的所有空隙 */
   .archive__item-excerpt p {
     margin-top: 0 !important;
-    margin-bottom: -5px !important; /* 与你题目设置的负边距保持一致 */
-    line-height: 1.3 !important;    /* 统一行高，确保视觉密度一致 */
+    margin-bottom: 0 !important;
+    line-height: 1.2 !important; /* 进一步缩减行高，让文字排布更紧密 */
   }
 
-  /* 3. 专门针对 Download 链接 */
-  /* 必须设置为 inline-block 才能精准控制 margin-top */
+  /* 专门针对 Download 链接：使用负边距向上提拉，紧贴简介 */
   .archive__item-excerpt a {
     display: inline-block !important;
-    margin-top: 0 !important; 
-    /* 因为上方的 p 标签已经有了 -5px 的 margin-bottom，
-       这里设为 0 就能保证它与上方的间距和段落间间距一致 */
+    margin-top: -4px !important;  /* 增加向上提拉的力度，缩减与简介的距离 */
+    font-size: 0.95em !important; /* 稍微缩小链接字号，视觉上更精致 */
   }
 
-  /* 4. 整体微调：如果觉得整体还是太松，可以给 excerpt 容器一个负的顶部边距 */
-  .archive__item-excerpt {
-    margin-top: -3px !important; 
-    margin-bottom: 0.5em !important;
-  }
 
-  /* 5. 不同论文条目之间的整体距离 */
+  /* --- 2. 论文条目之间：拉开距离 --- */
+
+  /* 增加每篇论文之间的垂直距离，解决“离下一篇太近”的问题 */
   .list__item {
-    margin-bottom: 1.5em !important; 
+    margin-bottom: 3.0em !important; /* 从 1.5em 增加到 3.0em，增加呼吸感 */
+    padding-bottom: 1.0em;
+    border-bottom: 1px solid #f2f2f2; /* 可选：增加一条极淡的分割线，让条目界限分明 */
   }
 
-  /* 6. 修复横线间距 */
+  /* 修复最后一条论文不需要分割线 */
+  .list__item:last-child {
+    border-bottom: none;
+  }
+
+
+  /* --- 3. 页面顶部微调 --- */
+  
+  /* 确保横线下方不会太拥挤 */
   hr {
     margin-top: 0 !important;
-    margin-bottom: 1em !important;
+    margin-bottom: 1.5em !important;
   }
 </style>
 

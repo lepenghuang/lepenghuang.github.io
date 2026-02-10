@@ -33,13 +33,15 @@ author_profile: true
   /* 增加每篇论文之间的垂直距离，解决“离下一篇太近”的问题 */
   .list__item {
     margin-bottom: 3.0em !important; /* 从 1.5em 增加到 3.0em，增加呼吸感 */
-    padding-bottom: 1.0em;
-    border-bottom: 1px solid #f2f2f2; /* 可选：增加一条极淡的分割线，让条目界限分明 */
+    padding-bottom: 1.5em;
+    border-bottom: 1px #eeeeee !important;
   }
 
-  /* 修复最后一条论文不需要分割线 */
+/* 修复最后一条论文不需要分割线 */
+  /* 注意：如果由于 Jekyll 渲染问题导致失效，可以暂时注释掉这一段进行测试 */
   .list__item:last-child {
-    border-bottom: none;
+    border-bottom: none !important;
+    margin-bottom: 0 !important;
   }
 
 

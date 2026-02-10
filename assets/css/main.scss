@@ -144,15 +144,15 @@ h3, h4, h5, h6 {
 
 /* 2. 调整条目详情 (Published on, Description) 的间距 */
 .archive__item-excerpt {
-  margin-top: 0 !important;
-  margin-bottom: 1em !important; /* 缩减描述文字与下方 "Download Paper" 的距离 */
+  margin-top: -1em !important;
+  margin-bottom: 2em !important; /* 缩减描述文字与下方 "Download Paper" 的距离 */
 }
 
 /* 3. 专门针对 "Download Paper" 链接的间距优化 */
 /* 假设它是段落内的一个独立链接或带有特定位置 */
 .archive__item-excerpt + a, 
 .archive__item-excerpt p + a {
-  margin-top: -2em !important;   /* 向上提拉，使其靠近描述文字 */
+  margin-top: -3em !important;   /* 向上提拉，使其靠近描述文字 */
   display: inline-block;
 }
 

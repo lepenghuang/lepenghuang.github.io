@@ -131,37 +131,3 @@ h3, h4, h5, h6 {
   margin-top: 0 !important;
   margin-bottom: 0.2em !important;
 }
-
-/* ==========================================================================
-   Publications 页面间距深度优化
-   ========================================================================== */
-/* 1. 调整论文标题 (Systemic planning...) 与上方标题 (Journal Articles) 的距离 */
-.archive__item-title {
-  margin-top: 0.8em !important;    /* 缩减标题上方的留白 */
-  margin-bottom: 0.5em !important; /* 缩减标题与下方 "Published on..." 的距离 */
-  line-height: 1.3 !important;     /* 保持标题行距紧凑 */
-}
-
-/* 2. 调整条目详情 (Published on, Description) 的间距 */
-.archive__item-excerpt {
-  margin-top: -1em !important;
-  margin-bottom: 2em !important; /* 缩减描述文字与下方 "Download Paper" 的距离 */
-}
-
-/* 3. 专门针对 "Download Paper" 链接的间距优化 */
-/* 假设它是段落内的一个独立链接或带有特定位置 */
-.archive__item-excerpt + a, 
-.archive__item-excerpt p + a {
-  margin-top: -3em !important;   /* 向上提拉，使其靠近描述文字 */
-  display: inline-block;
-}
-
-/* 4. 整体论文条目之间的间距 */
-.list__item {
-  margin-bottom: 1.5em !important; /* 调整每篇论文之间的垂直距离 */
-}
-
-/* 5. 消除 Journal Articles 这种二级标题下方的多余空白 */
-h2 + .list__item {
-  margin-top: 0.5em !important;
-}

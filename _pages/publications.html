@@ -19,13 +19,18 @@ author_profile: true
   /* 3. 重点：缩小论文标题 (Systemic planning...) 上方的巨大留白 */
   .archive__item-title {
     margin-top: 0 !important; 
-    margin-bottom: 0.3em !important;
+    margin-bottom: 0.2em !important;
   }
-
+  /* 在 .archive__item-excerpt 大括号内部添加，或单独写 */
+  .archive__item-excerpt p {
+    margin-top: 0.2em !important;    /* 调整简介与上方日期的间距 */
+    margin-bottom: 0.2em !important; /* 调整简介与下方链接的间距 */
+  }
+  
   /* 4. 缩小论文描述与 "Download Paper" 链接之间的距离 */
   .archive__item-excerpt {
-    margin-top: 0.5em !important;
-    margin-bottom: 0.5em !important;
+    margin-top: 0.2em !important;
+    margin-bottom: 0.2em !important;
   }
 
   /* 5. 调整每篇论文条目之间的整体间距 */

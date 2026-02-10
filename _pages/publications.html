@@ -45,13 +45,16 @@ author_profile: true
   }
 
 
-  /* --- 3. 页面顶部微调 --- */
   
-  /* 确保横线下方不会太拥挤 */
-  /* hr {
-    margin-top: 0 !important;
-    margin-bottom: 1.5em !important;
-  } */
+  /* --- 3. 页面顶部微调 --- */
+ hr {
+  margin-top: 0 !important;
+  margin-bottom: 1.5em !important; /* 线与第一篇论文的距离 */
+  
+  border: none !important;         /* 先去掉默认样式 */
+  /* 设置新的样式：2px粗、实线、黑色、10%透明度 */
+  border-top: 2px solid rgba(0, 0, 0, 0.1) !important; 
+}
 </style>
 
 

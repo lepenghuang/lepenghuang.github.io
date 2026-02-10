@@ -138,21 +138,21 @@ h3, h4, h5, h6 {
 /* 1. 调整论文标题 (Systemic planning...) 与上方标题 (Journal Articles) 的距离 */
 .archive__item-title {
   margin-top: 0.8em !important;    /* 缩减标题上方的留白 */
-  margin-bottom: 0.2em !important; /* 缩减标题与下方 "Published on..." 的距离 */
-  line-height: 1.2 !important;     /* 保持标题行距紧凑 */
+  margin-bottom: 0.5em !important; /* 缩减标题与下方 "Published on..." 的距离 */
+  line-height: 1.5 !important;     /* 保持标题行距紧凑 */
 }
 
 /* 2. 调整条目详情 (Published on, Description) 的间距 */
 .archive__item-excerpt {
   margin-top: 0 !important;
-  margin-bottom: 0.5em !important; /* 缩减描述文字与下方 "Download Paper" 的距离 */
+  margin-bottom: 1em !important; /* 缩减描述文字与下方 "Download Paper" 的距离 */
 }
 
 /* 3. 专门针对 "Download Paper" 链接的间距优化 */
 /* 假设它是段落内的一个独立链接或带有特定位置 */
 .archive__item-excerpt + a, 
 .archive__item-excerpt p + a {
-  margin-top: -0.5em !important;   /* 向上提拉，使其靠近描述文字 */
+  margin-top: -1em !important;   /* 向上提拉，使其靠近描述文字 */
   display: inline-block;
 }
 

@@ -20,7 +20,7 @@ Prior to UW, I got my MUP and B.Eng. from Zhejiang University. Advised by Prof. 
 Research Interests
 ======
 * Urban economics.  
-* Housing policy and markets, focusing on China and US contexts.
+* Housing policy and markets, focusing on China and US contexts for now.
 * Spatial matching of public service and population:
    * Bottom-up location choice, employing game theory. 
    * Top-down location allocation, employing operations research.   

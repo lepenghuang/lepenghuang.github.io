@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="margin-top: 1em;"></div>
-I am a student in the Interdisciplinary Ph.D. Program in Urban Design and Planning at the University of Washington, advised by Prof. [Arthur Acolin](https://re.be.uw.edu/people/arthur-acolin/) and co-advised by Prof. [Qing Shen](https://urbdp.be.uw.edu/people/qing-shen/).  
+I am a student in the Interdisciplinary Ph.D. Program in Urban Design and Planning at the University of Washington, advised by Prof. [Arthur Acolin](https://re.be.uw.edu/people/arthur-acolin/) and co-advised by Prof. [Qing Shen](https://urbdp.be.uw.edu/people/qing-shen/). I aspire to address critical real-world challenges through my intellectual pursuits.  
 
 My research interests are deeply influenced by the boom and downturn of real estate market in China and the outcomes for macro economy and micro behaviors. Therefore, my research investigates the roles of the key agents and the interactions across the key (sub)markets. By unraveling the empirical evidence and establishing the behavioral foundations of related social phenomena, I seek to provide insights that better inform urban planning and development.  
 

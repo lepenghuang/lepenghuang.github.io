@@ -132,36 +132,41 @@ h3, h4, h5, h6 {
   margin-bottom: 0.2em !important;
 }
 
-/* 7. 导航栏对齐修正 - 仅针对容器限制宽度 */
+/* 7. 导航栏布局深度修正 */
+.masthead {
+  /* 确保导航条背景延伸，但内部内容受限 */
+  display: block;
+}
+
 .masthead__inner-navigation {
-  /* 限制最大宽度并居中，与正文对齐 */
-  max-width: 1280px; 
-  margin-left: auto;
-  margin-right: auto;
-  
-  /* 左右预留内边距，确保名字 Lepeng Huang 与头像对齐 */
-  /* 你可以根据视觉效果在 1em 到 2em 之间调整 */
-  padding-left: 1.5em; 
-  padding-right: 1.5em;
+  /* 1. 强制限制最大宽度，不再受 1280px 媒体查询限制 */
+  max-width: 1280px !important; 
+  margin-left: auto !important;
+  margin-right: auto !important;
 
-  /* 使用 flex 让名字在左，菜单在右 */
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
+  /* 2. 增加左侧内边距 */
+  /* 如果名字还是太靠左，把 2.5em 往大调（如 4em）*/
+  padding-left: 2.5em !important; 
+  padding-right: 2.5em !important;
+
+  /* 3. 使用 Flex 布局让名字和菜单分布在两头 */
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
 }
 
-/* 恢复菜单的原始逻辑，避免触发移动端样式 */
+/* 4. 修复菜单项，防止它们垂直排列或出现“X” */
 .masthead__menu {
-  /* 删除之前添加的 display: flex */
-  display: block; 
+  float: none !important;
+  margin-left: 0 !important;
 }
 
-/* 确保菜单项在桌面端保持横向排列 */
-ul.visible-links {
-  display: flex;
-  gap: 1.5rem;
-  margin: 0;
-  padding: 0;
-  list-style: none;
+.masthead__menu-item {
+  display: inline-block !important;
+  margin-left: 1.5em !important;
+}
+
+/* 隐藏可能意外出现的移动端切换按钮 */
+.masthead__menu-toggle {
+  display: none !important;
 }

@@ -132,22 +132,36 @@ h3, h4, h5, h6 {
   margin-bottom: 0.2em !important;
 }
 
-/* 7. 同步导航栏与正文 (#main) 的布局 */
+/* 7. 导航栏对齐修正 - 仅针对容器限制宽度 */
 .masthead__inner-navigation {
+  /* 限制最大宽度并居中，与正文对齐 */
+  max-width: 1280px; 
   margin-left: auto;
   margin-right: auto;
-  padding-left: 1em;   /* 与 #main 的 padding-left 一致 */
-  padding-right: 1em;  /* 与 #main 的 padding-right 一致 */
+  
+  /* 左右预留内边距，确保名字 Lepeng Huang 与头像对齐 */
+  /* 你可以根据视觉效果在 1em 到 2em 之间调整 */
+  padding-left: 1.5em; 
+  padding-right: 1.5em;
 
-  /* 在超大屏幕下，使用与正文相同的最大宽度 */
-  @media (min-width: 1280px) { /* 这里 1280px 通常对应你的 $x-large 变量 */
-    max-width: 1280px; 
-  }
-}
-
-/* 确保导航菜单在容器内垂直居中并分布在两侧 */
-.masthead__menu {
+  /* 使用 flex 让名字在左，菜单在右 */
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
+}
+
+/* 恢复菜单的原始逻辑，避免触发移动端样式 */
+.masthead__menu {
+  /* 删除之前添加的 display: flex */
+  display: block; 
+}
+
+/* 确保菜单项在桌面端保持横向排列 */
+ul.visible-links {
+  display: flex;
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }

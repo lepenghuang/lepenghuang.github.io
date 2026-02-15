@@ -137,39 +137,63 @@ h3, h4, h5, h6 {
 
 
 
-/* 7. 导航栏终极对齐 - 解决全屏过窄与右侧标对齐问题 */
+/* 7. 导航栏终极对齐 - 严选模式 */
+
+/* 1. 强制最外层容器不再限制宽度，允许背景铺满，但内容居中 */
+.masthead {
+  padding: 0 !important;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
 .masthead__inner-navigation {
-  /* 1. 调整最大宽度：增加到 1440px 以匹配宽屏，或设为与 #main 一致 */
-  max-width: 1440px !important; 
+  /* 严格同步 page.scss 中 #main 的逻辑 */
+  max-width: 1440px !important; /* 稍微调大以适应你的宽屏全屏需求 */
   margin-left: auto !important;
   margin-right: auto !important;
-
-  /* 2. 严格对齐边距：必须使用 1em，以匹配 page.scss 第 8-9 行对 #main 的定义 */
+  
+  /* 左右边距必须与 #main 的 1em 保持绝对一致 */
   padding-left: 1em !important; 
   padding-right: 1em !important;
 
-  /* 3. 布局逻辑：强制两端对齐，将图标推向最右侧 */
+  /* 使用 flex 布局实现两端对齐，但不改变内部菜单性质 */
   display: flex !important;
   justify-content: space-between !important;
   align-items: center !important;
 }
 
-/* 4. 确保菜单容器也向右对齐，不留额外空隙 */
-.masthead__menu {
-  display: flex !important;
-  align-items: center !important;
-  margin-right: 0 !important;
+/* 2. 强制显示桌面端菜单，隐藏移动端“三道杠” */
+.masthead__menu-toggle {
+  display: none !important; /* 彻底删掉那个烦人的三道杠 */
 }
 
-/* 5. 调整右侧图标间距，确保最后一个图标（调色标）紧贴右边距 */
+.masthead__menu {
+  display: block !important; /* 恢复菜单容器的基本显示 */
+  float: none !important;    /* 彻底清除浮动干扰 */
+}
+
+/* 3. 确保菜单链接横向排列且右对齐 */
+ul.visible-links {
+  display: flex !important;
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  align-items: center !important;
+}
+
 .masthead__menu-item {
   display: inline-block !important;
-  margin-left: 1.5rem !important;
-  margin-right: 0 !important;
+  margin-left: 1.5rem !important; /* 链接之间的间距 */
 }
 
-/* 6. 针对 site-title 的微调，确保姓名紧贴左边距 */
+/* 4. 解决图标（图3）右对齐问题 */
+/* 确保最后一个项目（通常是调色标）没有任何右边距，紧贴对齐线 */
+.masthead__menu-item:last-child {
+  margin-right: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* 5. 确保左侧姓名紧贴对齐线 */
 .site-title {
-  margin-left: 0 !important;
   padding-left: 0 !important;
+  margin-left: 0 !important;
 }

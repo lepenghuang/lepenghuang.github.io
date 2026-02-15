@@ -137,60 +137,31 @@ h3, h4, h5, h6 {
 
 
 
-/* 7. 导航栏布局重构 - 严格同步 #main 容器 */
-
-/* 强制隐藏那个导致乱套的移动端“三道杠”和“X”按钮 */
-.masthead__menu-toggle, 
-.masthead__menu .hidden-links,
-.masthead__menu-item.is-active .hidden-links {
-  display: none !important;
-}
-
+/* 7. 导航栏终极布局修正 - 解决全屏过窄与对齐问题 */
 .masthead__inner-navigation {
-  /* 1. 核心对齐：必须与 page.scss 中的 #main 保持一致 */
-  max-width: 1280px !important; /* 对应主题的 $x-large */
-  margin-left: auto !important;
-  margin-right: auto !important;
+  /* 1. 稍微放大最大宽度，确保它能覆盖到正文的所有内容，包括侧边栏偏移 */
+  max-width: 1350px !important; 
+  margin: 0 auto !important;
   
-  /* 2. 边距同步：严格匹配 page.scss 第 8-9 行的 1em */
-  padding-left: 1em !important; 
-  padding-right: 1em !important;
+  /* 2. 关键对齐：将 padding-left 减小，强制让名字往左边靠 */
+  /* 如果刷新后名字还是靠右，可以把 0.2rem 改成 0 */
+  padding-left: 0.2rem !important; 
+  padding-right: 1.5rem !important;
 
-  /* 3. 布局逻辑：让名字在左，菜单和图标在右 */
+  /* 3. 布局逻辑：名字在左，菜单在右 */
   display: flex !important;
   justify-content: space-between !important;
   align-items: center !important;
 }
 
-/* 4. 强制菜单横向显示，不再变成下拉框 */
-.masthead__menu {
-  display: block !important;
-  float: none !important;
-  margin: 0 !important;
-}
-
-ul.visible-links {
-  display: flex !important;
-  flex-direction: row !important;
-  list-style: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  align-items: center !important;
-}
-
-.masthead__menu-item {
-  display: inline-block !important;
-  margin-left: 1.5rem !important; /* 控制文字间的间距 */
-}
-
-/* 5. 确保最右侧的图标（图3）没有任何右边距，实现右对齐 */
-.masthead__menu-item:last-child {
-  margin-right: 0 !important;
-  padding-right: 0 !important;
-}
-
-/* 6. 确保左侧姓名紧贴左边缘 */
+/* 4. 确保名字 (site-title) 没有任何额外的左边距干扰对齐 */
 .site-title {
   margin-left: 0 !important;
   padding-left: 0 !important;
+}
+
+/* 5. 确保菜单项在宽屏下有足够的间距，不会显得太挤 */
+.masthead__menu-item {
+  display: inline-block !important;
+  margin-left: 2rem !important; 
 }

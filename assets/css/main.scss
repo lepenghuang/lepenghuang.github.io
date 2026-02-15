@@ -132,19 +132,15 @@ h3, h4, h5, h6 {
   margin-bottom: 0.2em !important;
 }
 
-/* 6. 导航栏对齐与宽度修正 */
+/* 7. 同步导航栏与正文 (#main) 的布局 */
 .masthead__inner-navigation {
-  max-width: 1280px;      /* 这里的数值通常与主题的正文最大宽度一致 */
-  margin-left: auto;      /* 水平居中 */
-  margin-right: auto;     /* 水平居中 */
-  padding-left: 2em;      /* 这里的边距可以微调，直到 Logo 与头像左侧完全对齐 */
-  padding-right: 2em;
-}
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1em;   /* 与 #main 的 padding-left 一致 */
+  padding-right: 1em;  /* 与 #main 的 padding-right 一致 */
 
-/* 如果你的屏幕非常宽，确保导航栏内容不会贴边 */
-@media (min-width: 80em) {
-  .masthead__inner-navigation {
-    padding-left: 20px;
-    padding-right: 20px;
+  /* 在超大屏幕下，使用与正文相同的最大宽度 */
+  @media (min-width: 1280px) { /* 这里 1280px 通常对应你的 $x-large 变量 */
+    max-width: 1280px; 
   }
 }

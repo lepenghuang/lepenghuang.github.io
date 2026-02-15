@@ -144,3 +144,10 @@ h3, h4, h5, h6 {
     max-width: 1280px; 
   }
 }
+
+/* 确保导航菜单在容器内垂直居中并分布在两侧 */
+.masthead__menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

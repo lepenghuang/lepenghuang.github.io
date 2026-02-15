@@ -132,41 +132,36 @@ h3, h4, h5, h6 {
   margin-bottom: 0.2em !important;
 }
 
-/* 7. 导航栏布局深度修正 */
-.masthead {
-  /* 确保导航条背景延伸，但内部内容受限 */
-  display: block;
-}
 
+
+
+
+
+/* 7. 导航栏终极布局修正 - 解决全屏过窄与对齐问题 */
 .masthead__inner-navigation {
-  /* 1. 强制限制最大宽度，不再受 1280px 媒体查询限制 */
-  max-width: 1280px !important; 
-  margin-left: auto !important;
-  margin-right: auto !important;
+  /* 1. 稍微放大最大宽度，确保它能覆盖到正文的所有内容，包括侧边栏偏移 */
+  max-width: 1350px !important; 
+  margin: 0 auto !important;
+  
+  /* 2. 关键对齐：将 padding-left 减小，强制让名字往左边靠 */
+  /* 如果刷新后名字还是靠右，可以把 0.2rem 改成 0 */
+  padding-left: 0.2rem !important; 
+  padding-right: 1.5rem !important;
 
-  /* 2. 增加左侧内边距 */
-  /* 如果名字还是太靠左，把 2.5em 往大调（如 4em）*/
-  padding-left: 2.5em !important; 
-  padding-right: 2.5em !important;
-
-  /* 3. 使用 Flex 布局让名字和菜单分布在两头 */
+  /* 3. 布局逻辑：名字在左，菜单在右 */
   display: flex !important;
   justify-content: space-between !important;
   align-items: center !important;
 }
 
-/* 4. 修复菜单项，防止它们垂直排列或出现“X” */
-.masthead__menu {
-  float: none !important;
+/* 4. 确保名字 (site-title) 没有任何额外的左边距干扰对齐 */
+.site-title {
   margin-left: 0 !important;
+  padding-left: 0 !important;
 }
 
+/* 5. 确保菜单项在宽屏下有足够的间距，不会显得太挤 */
 .masthead__menu-item {
   display: inline-block !important;
-  margin-left: 1.5em !important;
-}
-
-/* 隐藏可能意外出现的移动端切换按钮 */
-.masthead__menu-toggle {
-  display: none !important;
+  margin-left: 2rem !important; 
 }

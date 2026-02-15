@@ -137,43 +137,41 @@ h3, h4, h5, h6 {
 
 
 
-/* 7. 导航栏终极对齐 - 严选模式 */
+/* 7. 导航栏布局重构 - 严格同步 #main 容器 */
 
-/* 1. 强制最外层容器不再限制宽度，允许背景铺满，但内容居中 */
-.masthead {
-  padding: 0 !important;
-  border-bottom: 1px solid var(--global-border-color);
+/* 强制隐藏那个导致乱套的移动端“三道杠”和“X”按钮 */
+.masthead__menu-toggle, 
+.masthead__menu .hidden-links,
+.masthead__menu-item.is-active .hidden-links {
+  display: none !important;
 }
 
 .masthead__inner-navigation {
-  /* 严格同步 page.scss 中 #main 的逻辑 */
-  max-width: 1440px !important; /* 稍微调大以适应你的宽屏全屏需求 */
+  /* 1. 核心对齐：必须与 page.scss 中的 #main 保持一致 */
+  max-width: 1280px !important; /* 对应主题的 $x-large */
   margin-left: auto !important;
   margin-right: auto !important;
   
-  /* 左右边距必须与 #main 的 1em 保持绝对一致 */
+  /* 2. 边距同步：严格匹配 page.scss 第 8-9 行的 1em */
   padding-left: 1em !important; 
   padding-right: 1em !important;
 
-  /* 使用 flex 布局实现两端对齐，但不改变内部菜单性质 */
+  /* 3. 布局逻辑：让名字在左，菜单和图标在右 */
   display: flex !important;
   justify-content: space-between !important;
   align-items: center !important;
 }
 
-/* 2. 强制显示桌面端菜单，隐藏移动端“三道杠” */
-.masthead__menu-toggle {
-  display: none !important; /* 彻底删掉那个烦人的三道杠 */
-}
-
+/* 4. 强制菜单横向显示，不再变成下拉框 */
 .masthead__menu {
-  display: block !important; /* 恢复菜单容器的基本显示 */
-  float: none !important;    /* 彻底清除浮动干扰 */
+  display: block !important;
+  float: none !important;
+  margin: 0 !important;
 }
 
-/* 3. 确保菜单链接横向排列且右对齐 */
 ul.visible-links {
   display: flex !important;
+  flex-direction: row !important;
   list-style: none !important;
   margin: 0 !important;
   padding: 0 !important;
@@ -182,18 +180,17 @@ ul.visible-links {
 
 .masthead__menu-item {
   display: inline-block !important;
-  margin-left: 1.5rem !important; /* 链接之间的间距 */
+  margin-left: 1.5rem !important; /* 控制文字间的间距 */
 }
 
-/* 4. 解决图标（图3）右对齐问题 */
-/* 确保最后一个项目（通常是调色标）没有任何右边距，紧贴对齐线 */
+/* 5. 确保最右侧的图标（图3）没有任何右边距，实现右对齐 */
 .masthead__menu-item:last-child {
   margin-right: 0 !important;
   padding-right: 0 !important;
 }
 
-/* 5. 确保左侧姓名紧贴对齐线 */
+/* 6. 确保左侧姓名紧贴左边缘 */
 .site-title {
-  padding-left: 0 !important;
   margin-left: 0 !important;
+  padding-left: 0 !important;
 }

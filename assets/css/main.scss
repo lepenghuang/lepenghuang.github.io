@@ -137,31 +137,39 @@ h3, h4, h5, h6 {
 
 
 
-/* 7. 导航栏终极布局修正 - 解决全屏过窄与对齐问题 */
+/* 7. 导航栏终极对齐 - 解决全屏过窄与右侧标对齐问题 */
 .masthead__inner-navigation {
-  /* 1. 稍微放大最大宽度，确保它能覆盖到正文的所有内容，包括侧边栏偏移 */
-  max-width: 1350px !important; 
-  margin: 0 auto !important;
-  
-  /* 2. 关键对齐：将 padding-left 减小，强制让名字往左边靠 */
-  /* 如果刷新后名字还是靠右，可以把 0.2rem 改成 0 */
-  padding-left: 0.2rem !important; 
-  padding-right: 1.5rem !important;
+  /* 1. 调整最大宽度：增加到 1440px 以匹配宽屏，或设为与 #main 一致 */
+  max-width: 1440px !important; 
+  margin-left: auto !important;
+  margin-right: auto !important;
 
-  /* 3. 布局逻辑：名字在左，菜单在右 */
+  /* 2. 严格对齐边距：必须使用 1em，以匹配 page.scss 第 8-9 行对 #main 的定义 */
+  padding-left: 1em !important; 
+  padding-right: 1em !important;
+
+  /* 3. 布局逻辑：强制两端对齐，将图标推向最右侧 */
   display: flex !important;
   justify-content: space-between !important;
   align-items: center !important;
 }
 
-/* 4. 确保名字 (site-title) 没有任何额外的左边距干扰对齐 */
+/* 4. 确保菜单容器也向右对齐，不留额外空隙 */
+.masthead__menu {
+  display: flex !important;
+  align-items: center !important;
+  margin-right: 0 !important;
+}
+
+/* 5. 调整右侧图标间距，确保最后一个图标（调色标）紧贴右边距 */
+.masthead__menu-item {
+  display: inline-block !important;
+  margin-left: 1.5rem !important;
+  margin-right: 0 !important;
+}
+
+/* 6. 针对 site-title 的微调，确保姓名紧贴左边距 */
 .site-title {
   margin-left: 0 !important;
   padding-left: 0 !important;
-}
-
-/* 5. 确保菜单项在宽屏下有足够的间距，不会显得太挤 */
-.masthead__menu-item {
-  display: inline-block !important;
-  margin-left: 2rem !important; 
 }

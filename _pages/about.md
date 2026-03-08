@@ -11,7 +11,7 @@ I am a student in the Interdisciplinary Ph.D. Program in Urban Design and Planni
 
 My research interests are deeply influenced by the boom and downturn of real estate market in China and the outcomes for macro economy and micro behaviors. Therefore, my research investigates the roles of the key agents and the interactions across the key (sub)markets. By unraveling the empirical evidence and establishing the behavioral foundations of related social phenomena, I seek to provide insights that better inform urban planning and development. For example, **my recent work is among the first to investigate the transition of China’s urban housing market from a prolonged boom to a structural downturn**.
 
-Prior to UW, I got my MUP and B.Eng. from Zhejiang University. Advised by Prof. [Guoqiang Shen](https://person.zju.edu.cn/en/shen), I tackled location choice and location allocation through game theory and operations research for the spatial matching of public service and population.  
+Prior to UW, I got my MUP and B.Eng. from Zhejiang University. Advised by Prof. [Guoqiang Shen](https://person.zju.edu.cn/en/shen), I tackled location-based problems through game theory and operations research for the spatial matching of public service and population.  
  
 **Please feel free to reach out if we have shared interests!**  
 

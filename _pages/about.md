@@ -22,7 +22,7 @@ Research Interests
 * **Urban economics**:
    * Spanning both the _classic field_ and _interdisciplinary applications_.  
 * **Housing** _policy_ and _markets_:
-   * Leverage and market cycles. 
+   * Leverage, frictions, and interactions. 
 * _Bottom-up_ and _top-down_ methods in **spatial matching**:
    * Bottom-up location choice, employing game theory. 
    * Top-down location allocation, employing operations research.   

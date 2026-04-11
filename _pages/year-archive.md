@@ -8,6 +8,9 @@ author_profile: true
 
 2026
 ======
+* **[2026-04]**: Hosted the [2026 Annual Ph.D. Symposium In Honor of Anne Vernez-Moudon](https://sites.uw.edu/urbdpphd/news-events/annual-symposium/2026-in-honor-of-anne-vernez-moudon/) as one of the main organizers.
+<div style="margin-top: 0.2em;"></div>
+
 * **[2026-01]**: Started to serve as an academic volunter of the journal [Frontiers of Urban and Rural Planning](https://link-springer-com.offcampus.lib.washington.edu/journal/44243).  
 <div style="margin-top: 0.2em;"></div>
 

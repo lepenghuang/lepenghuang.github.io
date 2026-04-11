@@ -24,7 +24,7 @@ Research Interests
 * Housing policy and markets:
    * Leverage, frictions, and interactions.
    * Recent market downturns in China.
-* Spatial matchinhg based on bottom-up and top-down methods:
+* Bottom-up and top-down methods in spatial matching:
    * Bottom-up location choice, employing game theory. 
    * Top-down location allocation, employing operations research.   
 * Urban studies and planning in a broad sense:

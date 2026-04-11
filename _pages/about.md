@@ -34,7 +34,7 @@ Research Interests
 
 In the Spare Time
 ======
-I enjoy photography, a skill I cultivated in my undergraduate student organization of photography. Please see my [photos](https://hlpgallery.mysxl.cn/)! I also like pool and city walks. Since I came to US, I have been enjoying cooking somehow.
+I enjoy photography, a skill I cultivated in my undergraduate student organization of photography. Please see my [photos](https://hlpgallery.mysxl.cn/)! I also like pool, city walks, and League of Legends. I have been a good League of Legends ARAM player for ten years...
 <div style="margin-top: 2em;"></div>
 
 *(Updated in April 2026)*

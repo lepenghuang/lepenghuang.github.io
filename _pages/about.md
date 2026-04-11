@@ -27,8 +27,8 @@ Research Interests
 * _Bottom-up_ and _top-down_ methods in **spatial matching**:
    * Bottom-up location choice, employing game theory. 
    * Top-down location allocation, employing operations research.   
-* _Win-win_ strategies in trackling planning problems.  
-* ...
+* Urban studies and planning inabroad sense:
+   * Strategies and solutions based-on _trade-offs_.  
 
 <div style="margin-top: 2em;"></div>
 

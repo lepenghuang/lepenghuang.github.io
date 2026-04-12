@@ -28,7 +28,7 @@ Research Interests
    * Bottom-up location choice, employing game theory. 
    * Top-down location allocation, employing operations research.   
 * Urban studies and planning in a broad sense:
-   * Strategies and solutions based-on trade-offs.  
+   *  Analysis based-on stable matching and trade-offs.  
 
 <div style="margin-top: 2em;"></div>
 

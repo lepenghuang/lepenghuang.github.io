@@ -21,6 +21,7 @@ Research Interests
 ======
 <div style="line-height: 1.2em;">
 Urban economics:  
+
 * Spanning both the classic field and interdisciplinary applications.
 </div>
 

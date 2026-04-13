@@ -22,6 +22,7 @@ Research Interests
 Urban economics:
 <div style="margin-top: -0.5em;">
 * Spanning both the classic field and interdisciplinary applications. 
+</div>
 
 * Urban economics:
    * Spanning both the classic field and interdisciplinary applications.  

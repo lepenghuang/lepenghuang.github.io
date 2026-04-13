@@ -19,10 +19,10 @@ Please feel free to reach out if we have shared interests!
 
 Research Interests
 ======
+<div style="line-height: 1.2em;">
 Urban economics:
-<div style="margin-top: -0.5em;">
-* Spanning both the classic field and interdisciplinary applications. 
-
+* Spanning both the classic field and interdisciplinary applications.
+</div>
 
 * Urban economics:
    * Spanning both the classic field and interdisciplinary applications.  

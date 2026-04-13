@@ -20,7 +20,7 @@ Please feel free to reach out if we have shared interests!
 Research Interests
 ======
 <div style="line-height: 1.2em;">
-Urban economics:
+Urban economics:  
 * Spanning both the classic field and interdisciplinary applications.
 </div>
 

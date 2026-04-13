@@ -19,11 +19,17 @@ Please feel free to reach out if we have shared interests!
 
 Research Interests
 ======
-<div style="line-height: 1.2em;">
-Urban economics:  
-
-* Spanning both the classic field and interdisciplinary applications.
-</div>
+Urban economics:
+   * Spanning both the classic field and interdisciplinary applications.  
+Housing policy and markets:
+   * Leverage, frictions, and interactions.
+   * Recent market downturns in China.
+Bottom-up and top-down methods in spatial matching:
+   * Bottom-up location choice, employing game theory. 
+   * Top-down location allocation, employing operations research.
+   * Mechanism design, employing stable matching.  
+Urban studies and planning in a broad sense:
+   * The role of urban planning and development in economic development.  
 
 * Urban economics:
    * Spanning both the classic field and interdisciplinary applications.  

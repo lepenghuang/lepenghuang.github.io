@@ -21,22 +21,23 @@ Research Interests
 ======
 Urban economics:
 * Spanning both the classic field and interdisciplinary applications.  
-{: style="margin-top: -0.6em; margin-bottom: 0.5em;"}
+{: style="margin-top: -1em; margin-bottom: 0.5em;"}
 
 Housing policy and markets:
 * Leverage, frictions, and interactions.
 * Recent market downturns in China.  
-{: style="margin-top: -0.6em; margin-bottom: 0.5em;"}
+{: style="margin-top: -1em; margin-bottom: 0.5em;"}
 
 Bottom-up and top-down methods in spatial matching:
 * Bottom-up location choice, employing game theory. 
 * Top-down location allocation, employing operations research.
 * Mechanism design, employing stable matching.  
-{: style="margin-top: -0.6em; margin-bottom: 0.5em;"}
+{: style="margin-top: -1em; margin-bottom: 0.5em;"}
 
 Urban studies and planning in a broad sense:
 * The role of urban planning and development in economic development.  
-{: style="margin-top: -0.6em; margin-bottom: 0em;"}
+{: style="margin-top: -1em; margin-bottom: 0em;"}
+<div style="margin-top: 2em;"></div>
 
 In the Spare Time
 ======

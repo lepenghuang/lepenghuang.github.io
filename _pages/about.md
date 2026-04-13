@@ -38,20 +38,6 @@ Urban studies and planning in a broad sense:
 * The role of urban planning and development in economic development.  
 {: style="margin-top: -0.6em; margin-bottom: 0em;"}
 
-* Urban economics:
-   * Spanning both the classic field and interdisciplinary applications.  
-* Housing policy and markets:
-   * Leverage, frictions, and interactions.
-   * Recent market downturns in China.
-* Bottom-up and top-down methods in spatial matching:
-   * Bottom-up location choice, employing game theory. 
-   * Top-down location allocation, employing operations research.
-   * Mechanism design, employing stable matching.  
-* Urban studies and planning in a broad sense:
-   * The role of urban planning and development in economic development.  
-
-<div style="margin-top: 2em;"></div>
-
 In the Spare Time
 ======
 I enjoy photography, a skill I cultivated in my undergraduate student organization of photography. Please see my [photos](https://hlpgallery.mysxl.cn/)! I also like pool, city walks, and League of Legends. I have been a good League of Legends ARAM player for eight years...

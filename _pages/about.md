@@ -19,6 +19,8 @@ Please feel free to reach out if we have shared interests!
 
 Research Interests
 ======
+Urban economics:
+* Spanning both the classic field and interdisciplinary applications.  
 * Urban economics:
    * Spanning both the classic field and interdisciplinary applications.  
 * Housing policy and markets:

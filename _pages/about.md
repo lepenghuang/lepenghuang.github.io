@@ -26,9 +26,10 @@ Research Interests
    * Recent market downturns in China.
 * Bottom-up and top-down methods in spatial matching:
    * Bottom-up location choice, employing game theory. 
-   * Top-down location allocation, employing operations research.   
+   * Top-down location allocation, employing operations research.
+   * Mechanism design, employing stable matching.  
 * Urban studies and planning in a broad sense:
-   *  Analysis based-on stable matching and trade-offs.  
+   * The role of urban planning and development in economic development.  
 
 <div style="margin-top: 2em;"></div>
 

@@ -22,7 +22,7 @@ Research Interests
 Urban economics:
 {: style="margin-bottom: 0px;"}
 * Spanning both the classic field and interdisciplinary applications.
-{: style="margin-top: -1.2em;"}
+{: style="margin-top: -1.2em; margin-bottom: 1em;"}
 
 Housing policy and markets:
 * Leverage, frictions, and interactions.

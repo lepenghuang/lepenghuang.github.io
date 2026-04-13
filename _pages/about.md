@@ -20,9 +20,9 @@ Please feel free to reach out if we have shared interests!
 Research Interests
 ======
 Urban economics:
-{: style="margin-bottom: -0.8em;"}
+{: style="margin-bottom: 0px;"}
 * Spanning both the classic field and interdisciplinary applications.
-
+{: style="margin-top: -1.2em;"}
 Housing policy and markets:
 * Leverage, frictions, and interactions.
 * Recent market downturns in China.  

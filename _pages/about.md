@@ -24,8 +24,9 @@ Urban economics:
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Housing policy and markets:
-* Leverage, frictions, and interactions.
-* Recent market downturns in China.  
+* Market frictions and interactions.
+* Recent market downturns in China.
+* Household finance. 
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Bottom-up and top-down methods in spatial matching:

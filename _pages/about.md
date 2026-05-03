@@ -30,9 +30,9 @@ Housing policy and markets:
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Bottom-up and top-down methods in spatial matching:
-* Bottom-up location choice, employing game theory. 
-* Top-down location allocation, employing operations research.
-* Mechanism design, employing stable matching.  
+* Bottom-up location choice, using game theory. 
+* Top-down location allocation, using operations research.
+* Mechanism design, using stable matching.  
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Urban studies and planning in a broad sense:

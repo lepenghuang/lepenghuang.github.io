@@ -8,6 +8,7 @@ author_profile: true
 
 2026
 ======
+* **[2026-04]**: Hosted a [presentation of a PhD student from National University of Singapore](https://mp.weixin.qq.com/s/eRKwpsjezKaY5wTjXNJY_w?scene=1) in the City+ Research Network for Interdisciplinary Urban Studies.
 * **[2026-04]**: Hosted the [2026 Annual Ph.D. Symposium (In Honor of Anne Vernez-Moudo)](https://sites.uw.edu/urbdpphd/news-events/annual-symposium/2026-in-honor-of-anne-vernez-moudon/) as one of the main organizers.
 <div style="margin-top: 0.2em;"></div>
 

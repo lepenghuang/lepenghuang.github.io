@@ -20,7 +20,7 @@ Please feel free to reach out if we have shared interests!
 Research Interests
 ======
 Urban economics:
-* Spanning both the classic field and interdisciplinary applications.  
+* Spatial structures, urban development, and associated social phenomena.  
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Housing policy and markets:
@@ -45,4 +45,4 @@ In the Spare Time
 I enjoy photography, a skill I cultivated in my undergraduate student organization of photography. Please see my [photos](https://hlpgallery.mysxl.cn/)! I also like pool, city walks, and League of Legends. I have been a good League of Legends ARAM player for eight years...
 <div style="margin-top: 2em;"></div>
 
-*(Updated in May 2026)*
+*(Updated in June 2026)*

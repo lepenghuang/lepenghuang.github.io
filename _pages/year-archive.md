@@ -8,6 +8,8 @@ author_profile: true
 
 2026
 ======
+* **[2026-07]**: Presented my paper at the 20th International Association for China Planning Conference in Xi'an, China.
+
 * **[2026-06]**: Received the Special Service Recognition Award from the Department of Urban Design and Planning at the University of Washington.
 <div style="margin-top: 0.2em;"></div>
 

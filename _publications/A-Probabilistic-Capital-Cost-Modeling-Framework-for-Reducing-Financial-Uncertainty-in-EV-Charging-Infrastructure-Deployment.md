@@ -1,9 +1,9 @@
 ---
 title: "A Probabilistic Capital Cost Modeling Framework for Reducing Financial Uncertainty in EV Charging Infrastructure Deployment"
 collection: publications
-category: working
+category: conferences
 permalink: /publication/A-Probabilistic-Capital-Cost-Modeling-Framework-for-Reducing-Financial-Uncertainty-in-EV-Charging-Infrastructure-Deployment
-excerpt: 'Abdul-Razak Alidu, Lepeng Huang, & Hyun Woo Lee. Accepted for i3CE 2026.'
+excerpt: 'Abdul-Razak Alidu, Lepeng Huang, & Hyun Woo Lee.'
 date: 2026-04-27
+venue: 'International Conference on Computing in Civil Engineering 2026'
 ---
-

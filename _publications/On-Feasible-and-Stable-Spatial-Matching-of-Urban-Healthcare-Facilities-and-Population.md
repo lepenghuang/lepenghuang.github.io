@@ -1,7 +1,7 @@
 ---
 title: "On Feasible and Stable Spatial Matching of Urban Healthcare Facilities and Population"
 collection: publications
-category: conferences
+category: conference
 permalink: /publication/On-Feasible-and-Stable-Spatial-Matching-of-Urban-Healthcare-Facilities-and-Population
 excerpt: 'This paper is the extended version of Simulated Stable Matching for Urban Hospitals and Residential Communities. I made oral presentations at the two conferences.'
 date: 2024-01-30

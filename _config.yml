@@ -80,9 +80,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   journal_first_corresponding:
-    title: 'First or Corresponding Author Journal Articles'
+    title: 'Journal Articles (First or Corresponding Author)'
   journal_coauthor:
-    title: 'Co-Authored Journal Articles'
+    title: 'Journal Articles (Co-Author)'
   working:
     title: 'Working Papers' 
   conferences:

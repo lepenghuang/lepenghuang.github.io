@@ -80,15 +80,15 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   journal_first_corresponding:
-    title: 'Journal Article (First or Corresponding Author)'
+    title: 'Journal Articles (First or Corresponding Author)'
   journal_coauthor:
-    title: 'Journal Article (Co-Author)'
+    title: 'Journal Articles (Co-Author)'
   working:
-    title: 'Working Paper' 
+    title: 'Working Papers' 
   conference:
-    title: 'Conference'
+    title: 'Conferences'
   book:
-    title: 'Book'
+    title: 'Books'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

@@ -82,7 +82,7 @@ publication_category:
   journal_first_corresponding:
     title: 'First or Corresponding Author Journal Articles'
   journal_coauthor:
-    title: 'Co-authored Journal Articles'
+    title: 'Co-Authored Journal Articles'
   working:
     title: 'Working Papers' 
   conferences:

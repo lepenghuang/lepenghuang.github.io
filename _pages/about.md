@@ -36,7 +36,7 @@ Bottom-up and top-down methods in spatial matching:
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Urban studies and planning in a broad sense:
-* The role of urban planning and development in economic development.  
+* Urban and economic development.  
 {: style="margin-top: -0.8em; margin-bottom: 0em;"}
 <div style="margin-top: 2em;"></div>
 

@@ -86,7 +86,7 @@ publication_category:
   working:
     title: 'Working Papers' 
   conferences:
-    title: 'Conference Presentations/Papers'
+    title: 'Conference Presentations or Papers'
   books:
     title: 'Books'
 

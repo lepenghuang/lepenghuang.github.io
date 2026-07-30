@@ -4,6 +4,7 @@ collection: publications
 category: journal_coauthor
 permalink: /publication/Villages-Spatial-Heterogeneity-in-the-Local-Clustering-of-Traditional-Villages-in-Southern-Zhejiang
 date: 2026-07-17
+excerpt: 'This paper develops a scale-aware and reproducible framework for examining the local clustering intensity of 612 recognized traditional villages in southern Zhejiang, China.'
 venue: 'Land'
 paperurl: 'https://www.mdpi.com/2073-445X/15/8/1360'
 ---

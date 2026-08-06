@@ -20,7 +20,7 @@ Please feel free to reach out if we have shared interests!
 Research Interests
 ======
 **Urban Economics**:
-* Primary field.
+* Primary field.  
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 **Housing Policy and Markets**:
@@ -32,7 +32,7 @@ Research Interests
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 **Urban and Economic Development**:
-* Income inequality.
+* Income inequality.  
 {: style="margin-top: -0.8em; margin-bottom: 0em;"}
 <div style="margin-top: 2em;"></div>
 

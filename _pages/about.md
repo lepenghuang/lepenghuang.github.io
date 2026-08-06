@@ -19,19 +19,19 @@ Please feel free to reach out if we have shared interests!
 
 Research Interests
 ======
-Urban Economics:
+Urban economics:
 * Primary field.  
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
-Housing Policy and Markets:
+Housing policy and markets:
 * Market frictions and interactions. Vouchers and affordable housing. Household finance. Market downturn in China.  
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
-Bottom-Up and Top-Down Spatial Matching:
+Bottom-up and top-down spatial matching:
 * Game-theoretic location choice. Operations research for location allocation. Stable matching as a solution.  
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
-Urban and Economic Development:
+Urban and economic development:
 * Income inequality.  
 {: style="margin-top: -0.8em; margin-bottom: 0em;"}
 <div style="margin-top: 2em;"></div>

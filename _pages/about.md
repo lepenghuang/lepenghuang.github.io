@@ -20,7 +20,7 @@ Please feel free to reach out if we have shared interests!
 Research Interests
 ======
 Urban economics:
-* Primary field.  
+* Core perspective. 
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Housing policy and markets:

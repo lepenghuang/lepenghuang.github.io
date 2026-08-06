@@ -24,13 +24,11 @@ Research Interests
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 **Housing Policy and Markets**:
-* Market frictions and interactions. Vouchers and affordable housing. Household
-finance. Market downturn in China.
+* Market frictions and interactions. Vouchers and affordable housing. Household finance. Market downturn in China.  
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 **Bottom-Up and Top-Down Spatial Matching**:
-* Game-theoretic location choice. Operations research for location allocation. Stable
-matching as a solution. 
+* Game-theoretic location choice. Operations research for location allocation. Stable matching as a solution.  
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 **Urban and Economic Development**:

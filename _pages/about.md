@@ -19,24 +19,22 @@ Please feel free to reach out if we have shared interests!
 
 Research Interests
 ======
-Urban economics:
-* Spatial structures, urban development, and associated social phenomena.  
+**Urban Economics**:
+* Primary field.
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
-Housing policy and markets:
-* Market frictions and interactions.
-* Recent market downturns in China.
-* Income inequality and household finance. 
+**Housing Policy and Markets**:
+* Market frictions and interactions. Vouchers and affordable housing. Household
+finance. Market downturn in China.
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
-Bottom-up and top-down methods in spatial matching:
-* Bottom-up location choice, using game theory. 
-* Top-down location allocation, using operations research.
-* Mechanism design, using stable matching.  
+**Bottom-Up and Top-Down Spatial Matching**:
+* Game-theoretic location choice. Operations research for location allocation. Stable
+matching as a solution. 
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
-Urban studies and planning in a broad sense:
-* Urban and economic development.  
+**Urban and Economic Development**:
+* Income inequality.
 {: style="margin-top: -0.8em; margin-bottom: 0em;"}
 <div style="margin-top: 2em;"></div>
 
@@ -45,4 +43,4 @@ In the Spare Time
 I enjoy photography, a skill I cultivated in my undergraduate student organization of photography. Please see my [photos](https://hlpgallery.mysxl.cn/)! I read reviews and watch videos on international economic development from social media. I also like pool, city walks, and League of Legends. I have been a good League of Legends ARAM player for eight years...
 <div style="margin-top: 2em;"></div>
 
-*(Updated in July 2026)*
+*(Updated in August 2026)*

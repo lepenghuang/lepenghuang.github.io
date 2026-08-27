@@ -3,6 +3,7 @@ title: "Bounding Neighborhood Opportunity Loss for Housing Choice Voucher Tenant
 collection: publications
 category: working
 permalink: /publication/Neighborhood-Opportunity-Loss-for-HCV-Tenants-from-Landlord-Discrimination
-excerpt: 'Lepeng Huang, & Arthur Acolin.'
+excerpt: 'Lepeng Huang, & Arthur Acolin. This paper develops the concept of counterfactual rent gap and bounds the neighborhood opportunity loss for HCV tenants from landlord discrimination.'
 date: 2026-08-27
 ---
+

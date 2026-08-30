@@ -74,37 +74,12 @@
   }
 }
 
-/* ================= Publications 自定义样式 ================= */
 
-/* 1. 论文标题：控制字号、标题内行距、以及标题与第一行文字的距离 */
-.archive__item-title {
-  font-size: 1.25rem !important;       /* 论文标题字号 (数值越大字越大，如 1.15rem, 1.2rem, 1.3rem) */
-  line-height: 1.35 !important;        /* 标题如果换行，标题本身的行间距 */
-  margin-top: 0.5rem !important;       /* 标题上方的间距 */
-  margin-bottom: 0.4rem !important;    /* 标题与下方第1行 (Published in...) 的间距 */
-}
-
-/* 2. 标题下方的文字：控制第1行(发表信息)、第2行(摘要)、第3行(Download链接) 的间距与字号 */
-.archive__item p,
-.archive__item-excerpt {
-  font-size: 0.95rem !important;       /* 下方文字的字号大小 */
-  line-height: 1.45 !important;        /* 文字多行时的行间距 */
-  margin-top: 0.25rem !important;      /* 每一行上方的空格/间距 */
-  margin-bottom: 0.35rem !important;   /* 每一行下方的空格/间距（控制第1行、第2行、第3行之间的间隔） */
-}
-
-/* 3. 每篇论文之间的上下整体间距（两篇论文之间的前后空格） */
-.list__item {
-  margin-top: 0rem !important;         /* 论文卡片上边距 */
-  margin-bottom: 2rem !important;      /* 论文卡片下边距（调小更紧凑，如 1.5rem；调大更宽松，如 2.5rem） */
-}
-
-{% comment %}
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
-{% endcomment %}
+
 
   .archive__item-title {
     text-decoration: underline;

@@ -24,7 +24,7 @@ Urban economics:
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Housing policy and markets:
-* Market frictions and interactions. Market downturn in China. Affordable housing in US. Household finance.  
+* Market frictions and interactions. Market downturn in China. Affordable housing in US. Household finance.   
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Bottom-up and top-down spatial matching:
@@ -32,7 +32,7 @@ Bottom-up and top-down spatial matching:
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Urban and economic development:
-* Income inequality.  
+* Income inequality. Local economic development.  
 {: style="margin-top: -0.8em; margin-bottom: 0em;"}
 <div style="margin-top: 2em;"></div>
 

@@ -8,6 +8,9 @@ author_profile: true
 
 2026
 ======
+* **[2026-09]**: Worked as a teaching assistant in the Runstad Department of Real Estate at the University of Washington.
+<div style="margin-top: 0.2em;"></div>
+
 * **[2026-07]**: Hosted a [presentation of a PhD candidate from Delft University of Technology](https://mp.weixin.qq.com/s/w33syEgv6dFcXuYUpwpasg) in the City+ Research Network for Interdisciplinary Urban Studies.
 <div style="margin-top: 0.2em;"></div>
 

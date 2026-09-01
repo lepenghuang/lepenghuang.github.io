@@ -24,7 +24,7 @@ Urban economics:
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Housing policy and markets:
-* Market frictions and interactions. Vouchers and affordable housing. Household finance. Market downturn in China.  
+* Market frictions and interactions. Market downturn in China. Affordable housing in US. Household finance.  
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Bottom-up and top-down spatial matching:

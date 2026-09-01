@@ -38,7 +38,7 @@ Urban and economic development:
 
 In Spare Time
 ======
-I enjoy photography, a skill I cultivated in my undergraduate student organization of photography. Please see my [photos](https://hlpgallery.mysxl.cn/)! I read reviews and watch videos on international economic development from social media. I also like pool, city walks, and League of Legends. I have been a good League of Legends player for many years...
+I love photography, a hobby I picked up back in my undergraduate student organization of photography. Please see my [photos](https://hlpgallery.mysxl.cn/)! I also enjoy reading commentary on international economic development, playing pool, going on city walks, and playing League of Legends.
 <div style="margin-top: 2em;"></div>
 
 *(Updated in September 2026)*

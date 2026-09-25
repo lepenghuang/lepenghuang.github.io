@@ -3,6 +3,6 @@ title: "Housing Choice Voucher Tenants Live in Less Satisfying Neighborhoods tha
 collection: publications
 category: working
 permalink: /publication/Housing-Choice-Voucher-Tenants-Live-in-Less-Satisfying-Neighborhoods-than-Their-Market-Counterparts
-excerpt:Lepeng Huang, Arthur Acolin, & Ruoniu(Vince) Wang.
-date: 2026-08-27
+excerpt: Lepeng Huang, Arthur Acolin, & Ruoniu(Vince) Wang.
+date: 2026-09-24
 ---

@@ -41,4 +41,4 @@ In Spare Time
 I love photography, a hobby I picked up back in my undergraduate student organization of photography. Please see my [photos](https://hlpgallery.mysxl.cn/)! I also enjoy reading commentary on international economic development, playing pool, going on city walks, and playing League of Legends.
 <div style="margin-top: 2em;"></div>
 
-*(Updated in September 2026)*
+*(Updated in October 2026)*

@@ -8,6 +8,12 @@ author_profile: true
 
 2026
 ======
+* **[2026-11]**: Presented my paper at the [American Real Estate Society 2026 Fall Research and Leadership Symposium](https://www.ares.org/general/custom.asp?page=fall-research-symposium) at Harvard University.
+<div style="margin-top: 0.2em;"></div>
+
+* **[2026-10]**: Hosted a [presentation of a postdoctoral research fellow from National University of Singapore](https://mp.weixin.qq.com/s/lOXJPVQKvkL0ly2RMowwxg?scene=1) in the City+ Research Network for Interdisciplinary Urban Studies.
+<div style="margin-top: 0.2em;"></div>
+
 * **[2026-09]**: Started to work as a teaching assistant in the Runstad Department of Real Estate at the University of Washington.
 <div style="margin-top: 0.2em;"></div>
 

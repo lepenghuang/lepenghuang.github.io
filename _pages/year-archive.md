@@ -11,6 +11,9 @@ author_profile: true
 * **[2026-11]**: Presented my paper at the [American Real Estate Society 2026 Fall Research and Leadership Symposium](https://www.ares.org/general/custom.asp?page=fall-research-symposium) at Harvard University.
 <div style="margin-top: 0.2em;"></div>
 
+* **[2026-10]**: New paper accepted for publication in the Journal of Real Estate Research: "Asymmetric Interactions across the Space, Asset, and Capital Markets in Real Estate: Evidence from 124 Cities in China".
+<div style="margin-top: 0.2em;"></div>
+
 * **[2026-10]**: Hosted a [presentation of a postdoctoral research fellow from National University of Singapore](https://mp.weixin.qq.com/s/lOXJPVQKvkL0ly2RMowwxg?scene=1) in the City+ Research Network for Interdisciplinary Urban Studies.
 <div style="margin-top: 0.2em;"></div>
 

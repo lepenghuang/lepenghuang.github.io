@@ -24,7 +24,7 @@ Urban economics:
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Housing policy and markets:
-* Housing Price. Market frictions and interactions. Market downturn in China. Affordable housing in US. Household finance.   
+* Housing Price. Market frictions and interactions. Market downturn in China. Housing affordability. Household finance.   
 {: style="margin-top: -0.8em; margin-bottom: 0.5em;"}
 
 Bottom-up and top-down spatial matching:
@@ -41,4 +41,4 @@ In Spare Time
 I love photography, a hobby I picked up back in my undergraduate student organization of photography. Please see my [photos](https://hlpgallery.mysxl.cn/)! I also enjoy reading commentary on international economic development, playing pool, going on city walks, and playing League of Legends.
 <div style="margin-top: 2em;"></div>
 
-*(Updated in October 2026)*
+*(Updated in November 2026)*

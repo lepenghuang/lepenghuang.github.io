@@ -58,6 +58,9 @@
   p, li, dl {
     font-size: 1em;
      text-align: left !important;
+     -webkit-hyphens: none !important;
+     -ms-hyphens: none !important;
+     hyphens: none !important;
   }
 
   /* paragraph indents */
